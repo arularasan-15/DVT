@@ -1,0 +1,28 @@
+import pandas as pd
+
+# Load dataset
+df = pd.read_csv("realworld_medical_dirty.csv")
+
+# Remove duplicate rows
+df = df.drop_duplicates()
+
+# Remove leading/trailing spaces from text columns
+for col in df.select_dtypes(include='object').columns:
+    df[col] = df[col].str.strip()
+
+# Fill missing values
+for col in df.select_dtypes(include='number').columns:
+    df[col] = df[col].fillna(df[col].mean())
+
+for col in df.select_dtypes(include='object').columns:
+    df[col] = df[col].fillna(df[col].mode()[0])
+
+# Print cleaned (crisp) dataset
+print("\n===== Cleaned (Crisp) Dataset =====")
+print(df)
+
+# Print first 10 rows only
+print("\n===== First 10 Rows =====")
+print(df.head(10))
+print(df.info())
+print(df.describe(include='all'))
