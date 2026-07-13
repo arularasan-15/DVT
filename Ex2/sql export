@@ -1,0 +1,17 @@
+import sqlite3
+
+# Create/connect to SQLite database
+conn = sqlite3.connect("medical_dataset.db")
+
+# Export DataFrame to SQL table
+df.to_sql(
+    "medical_records",      # Table name
+    conn,
+    if_exists="replace",    # replace existing table
+    index=False
+)
+
+print("Data exported successfully to SQLite database!")
+
+# Close connection
+conn.close()
