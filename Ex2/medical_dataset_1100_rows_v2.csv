@@ -1,0 +1,1101 @@
+Patient_ID,Name,Age,Gender,Height_cm,Weight_kg,BMI,Blood_Pressure,Blood_Sugar,Disease,Smoker,City
+10001,Gene Ortega,37.0,Female,170,105,36.3,141/63,88,Healthy,Yes,Bengaluru
+10002,Mr. Cristian Johnson,82.0,Male,187,48,13.7,102/65,181,COVID-19,Yes,Madurai
+10003,Christina Porter,72.0,Male,155,80,33.3,152/96,101,Heart Disease,Yes,Mumbai
+10004,Tiffany Fisher,23.0,Male,153,59,25.2,118/86,106,Healthy,Yes,Coimbatore
+10005,Shawna Wright,41.0,Male,185,97,28.3,137/96,233,Heart Disease,No,Salem
+10006,Anthony White,26.0,Male,185,90,26.3,139/73,197,,No,Bengaluru
+10007,Michael Abbott DDS,76.0,Female,179,82,25.6,119/75,116,Heart Disease,Yes,Coimbatore
+10008,Amanda Chapman,61.0,Female,183,76,22.7,118/98,88,,No,Trichy
+10009,Anna Haas,80.0,Female,171,54,18.5,102/64,212,Flu,No,Bengaluru
+10010,Angela Oconnell,76.0,Male,188,76,21.5,153/65,139,Arthritis,Yes,Chennai
+10011,David Turner MD,75.0,Female,169,86,30.1,145/84,158,Diabetes,No,Bengaluru
+10012,Samantha Nelson,32.0,Female,160,84,32.8,103/73,143,Asthma,Yes,Mumbai
+10013,Colleen Murray,81.0,Male,175,103,33.6,110/88,172,Healthy,No,Trichy
+10014,Michael Lewis,53.0,Female,177,100,31.9,122/84,129,Asthma,Yes,Trichy
+10015,Emily Hall,47.0,Male,159,59,23.3,131/97,116,Cancer,No,Chennai
+10016,Cheryl Johnson,65.0,Female,159,71,28.1,160/68,201,Diabetes,No,Mumbai
+10017,Chase Dominguez,68.0,Male,175,70,22.9,130/100,172,Diabetes,Yes,Salem
+10018,Tiffany Parrish,38.0,Male,163,73,27.5,121/98,83,Hypertension,Yes,Trichy
+10019,Robert Harris,64.0,Male,184,51,15.1,104/73,227,COVID-19,Yes,Coimbatore
+10020,Raven Smith,64.0,Female,172,83,28.1,107/67,194,Arthritis,No,Delhi
+10021,Karen Floyd DVM,36.0,Male,169,50,17.5,147/81,137,Arthritis,Yes,Chennai
+10022,William Leach,85.0,Female,163,105,39.5,109/94,76,Healthy,No,Salem
+10023,Stacy Smith,64.0,Male,166,78,28.3,122/74,206,Healthy,No,Madurai
+10024,Jamie Torres,42.0,Male,189,96,26.9,152/85,128,Heart Disease,No,Bengaluru
+10025,Jordan Newman,53.0,Female,151,46,20.2,116/72,224,Flu,No,Bengaluru
+10026,Katherine Williams,46.0,Male,173,50,16.7,114/90,120,Flu,Yes,Delhi
+10027,Mrs. Tanya Pacheco,18.0,Female,189,102,28.6,158/82,234,Hypertension,Yes,Mumbai
+10028,Jamie Nolan,40.0,Female,162,75,28.6,150/100,155,Hypertension,No,Delhi
+10029,Cole Mendoza,28.0,Male,175,92,30.0,110/68,77,Asthma,No,Trichy
+10030,Mr. Joshua Jackson Jr.,78.0,Female,189,97,27.2,109/95,210,Asthma,Yes,Chennai
+10031,Brett Jones,35.0,Female,156,78,32.1,155/72,124,Diabetes,No,Madurai
+10032,Matthew Sparks,48.0,Female,168,77,27.3,116/94,177,Asthma,Yes,Bengaluru
+10033,Barbara Flynn,84.0,Female,179,87,27.2,152/92,103,Healthy,Yes,Chennai
+10034,Mary Munoz,41.0,Male,178,94,29.7,149/69,114,Asthma,No,Salem
+10035,Lindsey Knight,59.0,Female,185,48,14.0,150/66,213,Diabetes,Yes,Madurai
+10036,Laurie Mayo,30.0,Female,167,47,16.9,135/61,86,Arthritis,No,Madurai
+10037,Kenneth Chavez,83.0,Female,167,73,26.2,132/75,203,Cancer,Yes,Delhi
+10038,Mr. Jason Marshall,33.0,Female,158,71,28.4,128/80,88,Heart Disease,No,Salem
+10039,Angela Maxwell,56.0,Male,163,87,32.7,157/69,234,Flu,Yes,Coimbatore
+10040,Harry Chapman,46.0,Male,158,74,29.6,125/91,111,Heart Disease,Yes,Mumbai
+10041,Jeffrey Cole,61.0,Female,182,70,21.1,112/82,151,Hypertension,No,Chennai
+10042,Timothy Ramos,76.0,Female,171,80,27.4,145/61,168,Flu,No,Salem
+10043,Tammy Newton,47.0,Male,157,103,41.8,105/76,139,Diabetes,Yes,Coimbatore
+10044,Danielle Tapia,72.0,Female,158,97,38.9,125/69,207,Healthy,No,Bengaluru
+10045,Michelle Gray,25.0,Male,155,62,25.8,127/64,138,Diabetes,Yes,Coimbatore
+10046,Rachel Garcia,46.0,Male,155,83,34.5,116/67,186,Diabetes,No,Mumbai
+10047,Diane Martinez,34.0,Male,167,84,30.1,133/75,98,Asthma,No,Chennai
+10048,David Thomas,57.0,Female,161,57,22.0,133/73,144,Arthritis,Yes,Coimbatore
+10049,Daniel Cannon,20.0,Female,172,96,32.4,102/60,74,Healthy,Yes,Delhi
+10050,Michelle Jones,75.0,Male,165,104,38.2,142/87,238,Arthritis,No,Coimbatore
+10051,Andrew Guzman,61.0,Male,163,59,22.2,153/100,105,COVID-19,No,Chennai
+10052,Cory Castaneda,27.0,Female,158,45,18.0,127/70,84,Hypertension,No,Coimbatore
+10053,Brandy Taylor,55.0,Male,188,60,17.0,129/71,110,Cancer,No,Chennai
+10054,Ashley Jacobs,60.0,Female,166,68,24.7,115/62,149,Heart Disease,No,Trichy
+10055,Eric Lee,,Male,150,66,29.3,130/77,198,Heart Disease,Yes,Chennai
+10056,Brandon Delgado,29.0,Male,155,61,25.4,125/97,80,COVID-19,Yes,Coimbatore
+10057,Donald Sanchez,47.0,Male,169,85,29.8,137/93,109,COVID-19,No,Delhi
+10058,William Oneill,36.0,Male,159,63,24.9,152/92,230,COVID-19,Yes,Chennai
+10059,Kenneth Gonzalez,47.0,Male,187,96,27.5,101/62,104,Flu,Yes,Mumbai
+10060,Peggy Moore,24.0,Male,178,80,25.2,140/94,132,Arthritis,No,Chennai
+10061,Christopher Moore,26.0,Male,179,96,30.0,142/93,86,Arthritis,No,Salem
+10062,Lisa Evans,44.0,Male,166,60,21.8,147/89,196,COVID-19,Yes,Delhi
+10063,Robin Fischer,23.0,Male,168,94,33.3,104/98,107,Flu,No,Coimbatore
+10064,April Riley,35.0,Male,189,81,22.7,130/63,194,Cancer,Yes,Madurai
+10065,Linda Wright,84.0,Female,181,63,19.2,129/89,189,Hypertension,Yes,Coimbatore
+10066,Marilyn Delacruz,78.0,Male,155,104,43.3,118/89,89,Healthy,No,Coimbatore
+10067,Shannon Smith,44.0,Male,174,58,19.2,137/65,106,Healthy,No,Bengaluru
+10068,Alexis Oliver,83.0,Female,158,83,33.2,156/67,163,Heart Disease,No,Delhi
+10069,Timothy Fields,38.0,Male,175,46,15.0,160/91,185,COVID-19,No,Trichy
+10070,Melinda Hansen,66.0,Female,176,67,21.6,107/81,70,Flu,No,Mumbai
+10071,Thomas Rodriguez,43.0,Male,157,105,42.6,157/78,134,Flu,Yes,Mumbai
+10072,Nina Austin,27.0,Female,174,100,33.0,159/87,140,Diabetes,No,Salem
+10073,Julia White,54.0,Male,153,98,41.9,115/77,181,Healthy,No,Madurai
+10074,Arthur Ford,72.0,Male,173,95,31.7,151/100,172,Healthy,Yes,Salem
+10075,David Wagner,70.0,Female,153,104,44.4,139/68,234,Cancer,No,Chennai
+10076,David Williams,39.0,Female,185,53,15.5,126/81,142,Cancer,No,Coimbatore
+10077,Juan Ryan,48.0,Female,175,86,28.1,130/95,170,Hypertension,Yes,Trichy
+10078,Jon Davis,82.0,Female,154,58,24.5,135/74,185,Flu,No,Mumbai
+10079,Kayla Thompson DVM,42.0,Male,158,80,32.0,105/71,157,Healthy,Yes,Bengaluru
+10080,Charlotte Fowler,51.0,Male,165,68,25.0,156/61,175,COVID-19,No,Madurai
+10081,Veronica Miranda,61.0,Male,174,62,20.5,131/77,217,Flu,Yes,Madurai
+10082,Mercedes Ewing,49.0,Female,155,62,25.8,125/88,180,Cancer,Yes,Trichy
+10083,Timothy Phelps,78.0,Female,152,72,31.2,100/64,170,Healthy,No,Delhi
+10084,Antonio Mullins,31.0,Male,165,95,34.9,109/69,203,Hypertension,No,Salem
+10085,Richard George MD,23.0,Male,185,94,27.5,150/68,129,Diabetes,No,Trichy
+10086,Gene Atkinson,85.0,Female,190,61,16.9,144/67,95,Hypertension,No,Madurai
+10087,Robert Strong,46.0,Male,174,61,20.1,100/94,147,Arthritis,No,Bengaluru
+10088,Erica Johnson,85.0,Male,165,75,27.5,135/75,77,COVID-19,No,Chennai
+10089,Susan Harris,81.0,Female,151,57,25.0,105/76,128,COVID-19,No,Madurai
+10090,Alexa Perez,61.0,Female,181,47,14.3,123/85,120,,No,Salem
+10091,Carrie Hunter,43.0,Female,163,76,28.6,149/72,129,Arthritis,Yes,Coimbatore
+10092,David Cordova,81.0,Male,168,51,18.1,157/74,194,COVID-19,Yes,Trichy
+10093,Lisa Pineda,45.0,Male,175,48,15.7,138/69,176,Diabetes,Yes,Trichy
+10094,Christopher Chase Jr.,58.0,Male,175,73,23.8,105/70,154,Heart Disease,Yes,Delhi
+10095,Jeffrey Avila,66.0,Female,152,64,27.7,121/88,113,Hypertension,Yes,Salem
+10096,Evelyn Townsend,62.0,Female,167,50,17.9,156/67,213,Heart Disease,No,Bengaluru
+10097,Juan Moore,73.0,Male,169,97,34.0,103/90,120,Flu,No,Madurai
+10098,Daniel Edwards Jr.,78.0,Male,170,68,23.5,140/86,133,COVID-19,Yes,Mumbai
+10099,Roger Coleman,26.0,Male,152,74,32.0,116/72,86,Flu,No,Coimbatore
+10100,Megan Smith,23.0,Female,171,84,28.7,147/80,140,Cancer,Yes,Salem
+10101,Angela Jensen,47.0,Male,151,97,42.5,130/89,168,,No,Delhi
+10102,Samantha Lawrence,81.0,Male,158,104,41.7,100/79,108,Heart Disease,No,Bengaluru
+10103,Ricky Norton,28.0,Male,179,68,21.2,125/70,133,COVID-19,Yes,Chennai
+10104,Jessica Jones,59.0,Male,180,80,24.7,127/66,88,Cancer,Yes,Madurai
+10105,Donna Lopez,81.0,Female,156,71,29.2,111/74,104,COVID-19,No,Madurai
+10106,Bradley Hicks,33.0,Female,184,99,29.2,118/77,215,Cancer,No,Coimbatore
+10107,Seth Sanchez,74.0,Male,166,57,20.7,111/75,130,Asthma,No,Madurai
+10108,Kelly Johnson,68.0,Female,170,49,17.0,115/92,204,Heart Disease,Yes,Delhi
+10109,Danielle Jones,,Female,152,51,22.1,156/74,184,Flu,Yes,Coimbatore
+10110,Cindy Richmond,,Male,164,52,19.3,138/97,119,Hypertension,No,Trichy
+10111,Ruben Morales,51.0,Male,178,83,26.2,106/100,222,,Yes,Chennai
+10112,Deborah Stone,36.0,Male,173,66,22.1,113/76,79,Heart Disease,Yes,Bengaluru
+10113,Kristin Bennett,65.0,Male,176,88,28.4,139/79,89,Heart Disease,Yes,Delhi
+10114,Scott Smith,26.0,Female,185,75,21.9,106/85,239,Healthy,Yes,Salem
+10115,Julie Riley,52.0,Female,160,70,27.3,118/79,176,Diabetes,No,Bengaluru
+10116,David Martinez,20.0,Female,176,71,22.9,141/72,170,COVID-19,Yes,Chennai
+10117,Johnny Morgan,38.0,Female,177,102,32.6,107/65,173,Flu,No,Trichy
+10118,Wesley Turner,24.0,Male,158,45,18.0,141/85,92,Flu,Yes,Trichy
+10119,Pamela Brown,38.0,Male,172,63,21.3,159/64,97,COVID-19,No,Madurai
+10120,Brenda Powell,23.0,Female,169,53,18.6,120/63,225,COVID-19,Yes,Trichy
+10121,Victoria Crawford,46.0,Female,190,95,26.3,139/72,191,Asthma,Yes,Chennai
+10122,Crystal Woods,84.0,Male,175,105,34.3,124/82,101,Asthma,Yes,Madurai
+10123,Nathaniel Benjamin,22.0,Female,152,101,43.7,107/84,223,Arthritis,No,Mumbai
+10124,Shelly Castillo,,Female,169,82,28.7,124/83,184,Healthy,No,Trichy
+10125,Kimberly Whitaker,80.0,Female,151,45,19.7,115/88,228,,Yes,Delhi
+10126,Nicholas Walker,26.0,Male,175,51,16.7,122/87,163,Hypertension,No,Chennai
+10127,Stephen Leonard,34.0,Male,152,85,36.8,159/80,200,Hypertension,Yes,Mumbai
+10128,Jessica Moore,26.0,Male,158,46,18.4,112/68,195,Cancer,Yes,Madurai
+10129,Kathryn Kerr,,Female,154,98,41.3,110/80,227,Cancer,No,Trichy
+10130,Tracy Charles,79.0,Male,166,77,27.9,137/76,227,Healthy,Yes,Bengaluru
+10131,Jeffery Sanchez,43.0,Male,173,47,15.7,125/70,232,Cancer,No,Mumbai
+10132,Mark Velazquez,51.0,Male,160,95,37.1,149/93,82,Flu,No,Salem
+10133,Mr. Kevin Green,68.0,Female,166,79,28.7,116/84,164,Asthma,No,Bengaluru
+10134,Meghan Dillon,47.0,Male,155,73,30.4,139/63,145,Healthy,No,Coimbatore
+10135,Linda Love,58.0,Male,190,100,27.7,147/62,126,Asthma,No,Mumbai
+10136,Kathleen Wright,64.0,Male,176,77,24.9,108/91,128,Diabetes,Yes,Chennai
+10137,Joshua Quinn,63.0,Female,150,81,36.0,106/93,161,Healthy,Yes,Mumbai
+10138,Amber Gordon,35.0,Male,187,64,18.3,123/99,191,Asthma,Yes,Chennai
+10139,Lisa Johnston,37.0,Female,165,90,33.1,106/64,233,Asthma,No,Mumbai
+10140,Henry Wiley,25.0,Female,166,45,16.3,138/97,183,Healthy,No,Madurai
+10141,Brittany White,18.0,Male,160,102,39.8,103/94,76,COVID-19,Yes,Madurai
+10142,William Bennett,31.0,Male,160,48,18.7,139/95,238,Heart Disease,Yes,Mumbai
+10143,Michelle Smith,82.0,Female,162,78,29.7,152/99,114,Healthy,No,Salem
+10144,Christopher Gross,24.0,Female,169,85,29.8,145/94,71,COVID-19,No,Delhi
+10145,Jorge Cardenas,75.0,Male,155,92,38.3,114/66,136,Heart Disease,Yes,Salem
+10146,Matthew Delgado,51.0,Male,171,102,34.9,117/100,211,COVID-19,No,Coimbatore
+10147,Michael Lee,82.0,Male,163,50,18.8,110/76,130,Heart Disease,Yes,Bengaluru
+10148,Maurice Ramirez,67.0,Female,162,101,38.5,138/75,167,Healthy,No,Delhi
+10149,Brandy Butler,18.0,Male,183,89,26.6,127/74,216,Cancer,Yes,Mumbai
+10150,George Robinson,27.0,Male,189,82,23.0,109/62,76,Hypertension,Yes,Trichy
+10151,Donald Murphy,21.0,Male,172,54,18.3,102/68,234,Diabetes,Yes,Chennai
+10152,Kenneth Gutierrez,64.0,Male,154,99,41.7,152/94,240,Hypertension,No,Salem
+10153,Adam Sanchez,44.0,Male,165,58,21.3,102/62,232,Hypertension,No,Delhi
+10154,Sheila Taylor,30.0,Male,156,53,21.8,118/80,156,COVID-19,No,Chennai
+10155,Helen Mccall,54.0,Male,172,61,20.6,145/83,152,Healthy,No,Coimbatore
+10156,Kimberly Gallegos,21.0,Female,189,92,25.8,101/87,202,Hypertension,No,Delhi
+10157,Roy James,45.0,Male,153,79,33.7,136/78,113,COVID-19,Yes,Madurai
+10158,Mrs. Susan Armstrong,24.0,Male,168,93,33.0,122/91,94,Arthritis,Yes,Delhi
+10159,Benjamin Pollard,83.0,Female,187,67,19.2,136/70,142,Heart Disease,Yes,Delhi
+10160,Steven Cruz,28.0,Female,160,52,20.3,150/95,96,Flu,No,Salem
+10161,Haley Smith,68.0,Male,175,104,34.0,127/61,165,Heart Disease,No,Coimbatore
+10162,Steven Ford,82.0,Male,177,102,32.6,124/100,129,Arthritis,Yes,Chennai
+10163,Daniel Gonzalez,59.0,Male,172,82,27.7,155/88,239,Healthy,No,Trichy
+10164,Frank Fields,50.0,Male,179,73,22.8,108/81,188,Heart Disease,Yes,Coimbatore
+10165,David Edwards PhD,37.0,Male,169,93,32.6,115/80,224,Healthy,No,Trichy
+10166,Tricia Rangel,42.0,Female,165,65,23.9,146/66,112,Hypertension,Yes,Mumbai
+10167,Sandra Herring,56.0,Female,159,54,21.4,127/77,120,Hypertension,Yes,Coimbatore
+10168,Kimberly Brock,67.0,Female,163,101,38.0,102/60,172,COVID-19,Yes,Coimbatore
+10169,Thomas Jacobs,36.0,Female,179,46,14.4,138/85,71,Heart Disease,No,Mumbai
+10170,Scott Parker,47.0,Male,164,87,32.3,141/67,186,COVID-19,No,Coimbatore
+10171,Sharon Robertson,30.0,Female,190,89,24.7,115/85,231,Asthma,No,Mumbai
+10172,Alicia Petersen,20.0,Female,180,74,22.8,133/71,237,Flu,Yes,Mumbai
+10173,Brittany Smith,31.0,Male,181,103,31.4,116/94,125,Asthma,Yes,Bengaluru
+10174,Jamie Owen,76.0,Male,156,99,40.7,145/90,201,Diabetes,No,Bengaluru
+10175,Sarah Jones,76.0,Male,176,92,29.7,143/71,170,Healthy,Yes,Bengaluru
+10176,Steven White,50.0,Female,190,48,13.3,124/85,85,Diabetes,Yes,Mumbai
+10177,Cindy Carter,63.0,Female,176,85,27.4,106/74,147,COVID-19,Yes,Mumbai
+10178,Jennifer Thomas,39.0,Male,179,58,18.1,159/64,232,Heart Disease,No,Madurai
+10179,Samuel Davidson,70.0,Female,159,67,26.5,118/95,236,Asthma,No,Bengaluru
+10180,Chloe Mann MD,66.0,Female,164,62,23.1,127/71,193,Diabetes,No,Bengaluru
+10181,Amanda Sellers,56.0,Female,165,86,31.6,130/91,179,Hypertension,No,Trichy
+10182,Sean Cantu,67.0,Male,169,99,34.7,105/96,153,Asthma,No,Chennai
+10183,Brian Mcneil,27.0,Female,150,58,25.8,116/98,95,Asthma,Yes,Trichy
+10184,Robert Carney,37.0,Male,178,67,21.1,157/85,206,Asthma,Yes,Coimbatore
+10185,Ashley Gilmore,45.0,Male,162,76,29.0,147/88,99,Healthy,Yes,Coimbatore
+10186,Jennifer Freeman,35.0,Female,176,59,19.0,131/95,84,Arthritis,No,Trichy
+10187,Dan Moore,81.0,Male,181,60,18.3,134/98,71,Asthma,No,Delhi
+10188,Mary Norris,55.0,Female,186,76,22.0,123/87,177,Hypertension,Yes,Bengaluru
+10189,Kyle Cooper,21.0,Male,190,86,23.8,139/62,154,Hypertension,No,Delhi
+10190,Rhonda Richardson,45.0,Female,159,47,18.6,140/68,156,Hypertension,No,Bengaluru
+10191,Melinda Sanchez,85.0,Male,180,94,29.0,118/87,157,COVID-19,No,Chennai
+10192,William Montgomery,63.0,Female,168,63,22.3,125/81,198,Cancer,No,Madurai
+10193,Sarah Franklin,33.0,Female,181,95,29.0,112/80,146,Asthma,Yes,Chennai
+10194,Tyrone Harrell,69.0,Male,175,91,29.7,125/79,97,Diabetes,Yes,Madurai
+10195,Aaron Estrada,25.0,Female,180,83,25.6,139/69,230,Hypertension,Yes,Chennai
+10196,Manuel Gordon,40.0,Male,190,74,20.5,142/71,79,COVID-19,Yes,Chennai
+10197,Heather Smith,35.0,Female,173,100,33.4,135/76,147,Asthma,No,Chennai
+10198,Kevin Robinson,73.0,Male,170,46,15.9,131/96,203,Diabetes,Yes,Mumbai
+10199,Krista Frye,69.0,Female,186,89,25.7,104/60,169,Asthma,No,Mumbai
+10200,Debra Walters,28.0,Female,185,51,14.9,113/69,230,Diabetes,No,Chennai
+10201,Brett Murphy,33.0,Male,150,88,39.1,113/67,103,Arthritis,Yes,Coimbatore
+10202,Curtis Mills DVM,75.0,Male,186,60,17.3,159/63,163,Asthma,Yes,Coimbatore
+10203,Monique Wood,81.0,Female,190,80,22.2,142/76,83,Diabetes,Yes,Chennai
+10204,Jacqueline Lopez,28.0,Female,150,101,44.9,119/79,223,Asthma,No,Chennai
+10205,Samuel Butler,74.0,Female,170,68,23.5,143/70,107,Hypertension,No,Trichy
+10206,Vincent Larson,71.0,Female,190,96,26.6,124/88,139,Flu,No,Coimbatore
+10207,Dawn Lane,60.0,Male,153,84,35.9,153/69,223,Cancer,No,Madurai
+10208,Danny Cabrera,66.0,Male,174,69,22.8,151/88,142,Diabetes,No,Coimbatore
+10209,Shannon Pope,38.0,Male,167,72,25.8,118/69,216,Asthma,No,Delhi
+10210,Jamie Brown,28.0,Female,172,79,26.7,151/84,121,Heart Disease,No,Chennai
+10211,Juan Clark,44.0,Female,175,74,24.2,137/60,168,Arthritis,Yes,Bengaluru
+10212,John Powell,68.0,Female,154,59,24.9,156/93,152,Arthritis,Yes,Madurai
+10213,Darren Henson,29.0,Male,163,57,21.5,151/78,162,Flu,No,Trichy
+10214,Darrell Olson,81.0,Female,165,47,17.3,155/66,165,Arthritis,Yes,Trichy
+10215,Rebecca Kelley,21.0,Female,170,83,28.7,117/93,225,Diabetes,Yes,Chennai
+10216,Roger Dalton,80.0,Male,163,100,37.6,116/77,179,Hypertension,No,Trichy
+10217,Tammy Reyes,,Female,166,98,35.6,112/71,166,Hypertension,Yes,Chennai
+10218,Chase Williams,65.0,Female,152,80,34.6,131/64,223,COVID-19,Yes,Salem
+10219,Curtis Kelly,47.0,Male,166,65,23.6,158/92,170,Asthma,No,Trichy
+10220,Denise Hernandez,46.0,Male,173,60,20.0,102/76,160,Diabetes,Yes,Chennai
+10221,Candace Richardson,83.0,Female,166,95,34.5,103/66,107,Flu,Yes,Madurai
+10222,Rebecca Smith,74.0,Male,169,82,28.7,130/80,165,Cancer,No,Salem
+10223,Cody Rodriguez,66.0,Male,173,75,25.1,128/75,106,Diabetes,No,Madurai
+10224,Daniel Wilson,46.0,Male,152,55,23.8,159/99,165,Asthma,No,Salem
+10225,Heidi Perkins,20.0,Male,174,98,32.4,128/81,152,Heart Disease,No,Salem
+10226,Michelle Smith,36.0,Female,190,68,18.8,114/63,116,Arthritis,Yes,Delhi
+10227,Richard Hernandez,71.0,Female,159,62,24.5,115/69,76,Cancer,No,Bengaluru
+10228,Rick Grant,80.0,Male,160,61,23.8,120/89,193,Hypertension,Yes,Chennai
+10229,Teresa Johnson,45.0,Female,190,102,28.3,153/78,100,Cancer,Yes,Bengaluru
+10230,Norma Blake,48.0,Male,177,61,19.5,106/84,144,COVID-19,Yes,Chennai
+10231,Jay Moreno,20.0,Female,168,54,19.1,151/92,157,Healthy,Yes,Delhi
+10232,Scott Rogers,85.0,Female,150,95,42.2,111/83,181,Diabetes,No,Madurai
+10233,Gerald Holmes,41.0,Male,167,81,29.0,153/71,203,Heart Disease,Yes,Madurai
+10234,Kayla Perry,29.0,Female,188,50,14.1,148/77,114,Heart Disease,Yes,Madurai
+10235,Dean Ellis,43.0,Male,187,64,18.3,104/93,174,Diabetes,No,Bengaluru
+10236,Kelly Banks,81.0,Male,168,98,34.7,100/86,192,Asthma,No,Madurai
+10237,Christy Macdonald,64.0,Male,161,81,31.2,110/83,217,Diabetes,No,Delhi
+10238,Kimberly Mata,33.0,Female,183,49,14.6,145/75,152,COVID-19,Yes,Coimbatore
+10239,Amy Olson,81.0,Female,156,91,37.4,132/61,205,Healthy,Yes,Chennai
+10240,Matthew Tate,46.0,Male,165,50,18.4,110/66,149,Cancer,Yes,Chennai
+10241,Phillip Krause,42.0,Female,156,104,42.7,101/98,233,Arthritis,Yes,Delhi
+10242,Donald Simmons,30.0,Male,156,67,27.5,102/77,101,Arthritis,No,Coimbatore
+10243,Rachel Fuller,33.0,Female,157,52,21.1,156/68,208,Heart Disease,Yes,Trichy
+10244,Misty Smith,68.0,Male,186,74,21.4,160/61,232,COVID-19,No,Chennai
+10245,Jimmy Nichols,24.0,Female,175,105,34.3,121/85,131,Flu,No,Bengaluru
+10246,Devon Carney,24.0,Female,175,99,32.3,133/69,160,Heart Disease,No,Chennai
+10247,Michelle Robinson,85.0,Male,173,51,17.0,104/80,180,Heart Disease,Yes,Madurai
+10248,Zachary Dennis,68.0,Female,158,71,28.4,140/62,80,Diabetes,No,Coimbatore
+10249,Catherine Miller,22.0,Male,190,79,21.9,116/67,203,Diabetes,No,Madurai
+10250,Nicholas Ramos,32.0,Female,152,63,27.3,122/70,100,Diabetes,No,Salem
+10251,Donna Lang,36.0,Female,179,82,25.6,107/92,103,Cancer,No,Coimbatore
+10252,Andrew Johnson,29.0,Female,167,60,21.5,153/89,226,Heart Disease,No,Madurai
+10253,Philip Lewis,64.0,Female,185,90,26.3,157/95,147,Arthritis,No,Coimbatore
+10254,Elizabeth Lowery,60.0,Male,151,60,26.3,112/92,209,COVID-19,No,Chennai
+10255,Maria Williams,48.0,Female,172,55,18.6,135/80,195,Cancer,No,Madurai
+10256,Caroline Taylor,20.0,Male,168,48,17.0,135/64,225,Flu,No,Chennai
+10257,Tyler Gardner,74.0,Female,183,69,20.6,147/66,203,Heart Disease,Yes,Mumbai
+10258,Rebekah Mcdaniel,63.0,Male,171,87,29.8,143/72,227,Cancer,Yes,Delhi
+10259,Charles Preston,34.0,Female,167,95,34.1,155/66,71,COVID-19,Yes,Delhi
+10260,Elizabeth Gates,37.0,Female,175,81,26.4,154/77,229,Hypertension,No,Delhi
+10261,Jessica Thomas,63.0,Female,179,63,19.7,122/85,204,Healthy,No,Bengaluru
+10262,James Hernandez,81.0,Female,150,95,42.2,128/79,117,Healthy,No,Trichy
+10263,Michael Morgan,66.0,Male,177,81,25.9,105/81,152,Heart Disease,No,Madurai
+10264,Jennifer Ray,19.0,Male,177,102,32.6,103/76,214,Arthritis,No,Coimbatore
+10265,Michael Mcbride,73.0,Female,184,84,24.8,124/89,161,Diabetes,No,Delhi
+10266,Kathryn Gutierrez,26.0,Male,150,88,39.1,106/86,165,Healthy,No,Trichy
+10267,Gabrielle Schwartz,80.0,Female,162,71,27.1,128/99,220,Flu,Yes,Trichy
+10268,Linda Collins,64.0,Male,173,65,21.7,152/79,201,Asthma,Yes,Coimbatore
+10269,Sean Patel,83.0,Female,171,97,33.2,140/70,204,Cancer,Yes,Madurai
+10270,Richard Maynard,25.0,Male,176,56,18.1,122/96,231,Diabetes,No,Chennai
+10271,Paige Garcia,,Female,150,64,28.4,125/66,220,Diabetes,Yes,Madurai
+10272,Carl Smith,52.0,Male,161,76,29.3,136/72,175,Hypertension,Yes,Trichy
+10273,Jessica Mcdonald,83.0,Male,183,93,27.8,101/66,89,Asthma,No,Delhi
+10274,Kevin Barton,25.0,Male,189,72,20.2,143/97,152,Asthma,Yes,Bengaluru
+10275,Anthony Porter,22.0,Female,167,55,19.7,140/66,219,Hypertension,No,Madurai
+10276,Amy Riley,67.0,Male,178,84,26.5,103/74,171,Diabetes,No,Chennai
+10277,Amber Collins,49.0,Male,189,60,16.8,102/70,220,Asthma,No,Chennai
+10278,Kimberly Franklin,71.0,Female,179,64,20.0,156/91,87,Heart Disease,No,Madurai
+10279,Carol Yates,69.0,Female,176,64,20.7,101/75,92,Asthma,Yes,Bengaluru
+10280,Dr. Jared Floyd,18.0,Female,174,56,18.5,125/95,162,Hypertension,No,Mumbai
+10281,Julie Hamilton,26.0,Male,171,70,23.9,127/82,211,Heart Disease,No,Madurai
+10282,Ian Drake,62.0,Male,179,63,19.7,127/62,141,Diabetes,No,Trichy
+10283,Alex Garrison DVM,34.0,Male,165,90,33.1,112/77,209,Asthma,No,Delhi
+10284,Kimberly Hudson,65.0,Female,165,55,20.2,113/85,166,Heart Disease,No,Delhi
+10285,Janet Thomas,47.0,Female,182,58,17.5,143/68,136,Arthritis,No,Madurai
+10286,Steven Klein,83.0,Male,175,83,27.1,108/67,201,Hypertension,No,Mumbai
+10287,Lisa Rich,36.0,Female,151,87,38.2,100/84,92,Asthma,Yes,Bengaluru
+10288,Kristi Smith,31.0,Male,162,87,33.2,135/83,198,Cancer,Yes,Salem
+10289,Michael Cox,46.0,Female,169,50,17.5,108/85,142,Flu,No,Delhi
+10290,Guy Graham,34.0,Female,190,101,28.0,111/61,163,Flu,No,Chennai
+10291,Mr. Jonathan Harris PhD,69.0,Female,179,60,18.7,157/100,95,Asthma,No,Salem
+10292,Jessica Miller,46.0,Male,167,103,36.9,125/62,225,Asthma,No,Madurai
+10293,Jaime Jones,66.0,Male,169,54,18.9,135/79,231,Asthma,Yes,Delhi
+10294,Joseph Williams,73.0,Female,183,61,18.2,159/60,98,Cancer,Yes,Chennai
+10295,Joseph Davis,32.0,Male,165,88,32.3,150/80,123,Flu,Yes,Mumbai
+10296,Jennifer Anderson,46.0,Female,175,92,30.0,133/65,159,COVID-19,No,Bengaluru
+10297,Denise Patterson,75.0,Male,182,92,27.8,143/73,179,Healthy,Yes,Delhi
+10298,Jorge Rice,51.0,Male,162,47,17.9,134/70,233,Heart Disease,No,Madurai
+10299,Suzanne Cook,63.0,Female,153,55,23.5,126/65,121,Cancer,Yes,Trichy
+10300,Amanda Barrera,79.0,Male,181,87,26.6,145/75,71,Healthy,No,Trichy
+10301,Glenn White,56.0,Male,172,89,30.1,156/69,220,Heart Disease,No,Salem
+10302,Mr. Seth Hayden,39.0,Male,185,72,21.0,138/89,173,Heart Disease,Yes,Coimbatore
+10303,Susan Burke,80.0,Male,150,68,30.2,102/63,141,Cancer,Yes,Salem
+10304,Wayne Fernandez,32.0,Male,169,73,25.6,120/88,189,Flu,No,Trichy
+10305,Jonathan May,23.0,Male,185,49,14.3,129/91,91,Flu,No,Salem
+10306,Patricia Tate,80.0,Male,181,72,22.0,150/94,152,Diabetes,No,Salem
+10307,Megan Long,50.0,Male,168,85,30.1,105/68,77,Diabetes,No,Trichy
+10308,Mr. Marvin Garrett,41.0,Male,168,68,24.1,106/79,227,Flu,No,Trichy
+10309,Sabrina Williams,47.0,Female,172,65,22.0,108/95,164,Cancer,Yes,Chennai
+10310,Stephen Salazar,69.0,Male,152,51,22.1,160/73,196,COVID-19,No,Trichy
+10311,Pamela Moody,28.0,Male,169,83,29.1,144/74,111,Asthma,No,Mumbai
+10312,Amanda George,74.0,Female,155,47,19.6,112/73,165,Diabetes,Yes,Mumbai
+10313,Ian Rogers,27.0,Male,159,63,24.9,132/86,156,Hypertension,No,Chennai
+10314,Melissa Williams,39.0,Female,161,102,39.4,118/60,183,Flu,Yes,Delhi
+10315,Jeffery Robles,59.0,Female,155,79,32.9,127/94,230,Asthma,No,Salem
+10316,Michael Holmes,60.0,Female,153,91,38.9,136/96,177,Flu,No,Trichy
+10317,Andrea Arnold,61.0,Male,169,100,35.0,154/72,126,Arthritis,Yes,Trichy
+10318,Cynthia Hodge,71.0,Female,187,68,19.4,133/75,214,Arthritis,No,Coimbatore
+10319,Joel Bell,41.0,Male,157,59,23.9,135/67,126,Cancer,Yes,Madurai
+10320,Kimberly Torres,50.0,Female,183,87,26.0,114/95,187,Heart Disease,Yes,Salem
+10321,Robert Smith,27.0,Female,176,88,28.4,108/92,210,Healthy,Yes,Salem
+10322,Scott Dalton,68.0,Male,179,98,30.6,112/96,191,Hypertension,Yes,Bengaluru
+10323,Mr. Tyler Lopez,69.0,Male,189,48,13.4,103/83,80,Diabetes,Yes,Delhi
+10324,Nathan Blackwell,35.0,Female,169,52,18.2,158/65,229,Heart Disease,Yes,Bengaluru
+10325,Dennis Green,61.0,Male,160,68,26.6,152/76,101,Heart Disease,No,Bengaluru
+10326,Heather Velez,63.0,Male,181,47,14.3,122/95,153,Hypertension,Yes,Madurai
+10327,Andrew Kim,42.0,Female,166,67,24.3,101/97,182,Hypertension,Yes,Delhi
+10328,John Escobar,51.0,Male,157,49,19.9,109/95,144,COVID-19,Yes,Coimbatore
+10329,Dominic Mcdonald,52.0,Female,184,89,26.3,100/61,157,Asthma,No,Delhi
+10330,Tonya Smith,22.0,Male,152,96,41.6,111/99,235,COVID-19,No,Trichy
+10331,Michael Santiago,47.0,Male,178,70,22.1,123/81,205,Heart Disease,No,Trichy
+10332,Samantha Brown,23.0,Male,187,84,24.0,110/83,189,Flu,No,Mumbai
+10333,Lisa Benjamin,18.0,Female,172,65,22.0,137/90,155,Heart Disease,Yes,Madurai
+10334,Kenneth Johnson,23.0,Male,179,101,31.5,146/69,139,COVID-19,No,Salem
+10335,Kathleen Lee,63.0,Male,182,61,18.4,144/62,213,Hypertension,Yes,Mumbai
+10336,Brandon Adams,30.0,Female,190,81,22.4,150/78,130,Asthma,Yes,Coimbatore
+10337,Judith Barnett,64.0,Male,171,92,31.5,122/95,173,Flu,Yes,Bengaluru
+10338,Paul Thomas,79.0,Female,170,101,34.9,157/75,130,Flu,Yes,Trichy
+10339,Tyler Jordan,76.0,Female,163,45,16.9,128/85,215,Cancer,Yes,Salem
+10340,Elizabeth Warren,57.0,Female,159,64,25.3,146/96,211,Flu,Yes,Madurai
+10341,Robert Carpenter,28.0,Male,187,104,29.7,119/97,160,Arthritis,No,Mumbai
+10342,Jessica Wright,80.0,Female,154,98,41.3,157/71,140,Cancer,Yes,Trichy
+10343,Jonathan Lee,48.0,Male,190,62,17.2,113/63,172,Arthritis,Yes,Coimbatore
+10344,Julie Scott,30.0,Male,182,86,26.0,115/63,103,Diabetes,Yes,Salem
+10345,Jessica Wilson,35.0,Male,186,66,19.1,112/77,207,Diabetes,No,Chennai
+10346,Ellen Archer,59.0,Male,163,65,24.5,141/91,173,,Yes,Chennai
+10347,Sherry Martinez,23.0,Male,176,95,30.7,140/99,155,Arthritis,No,Coimbatore
+10348,Cynthia Pacheco,19.0,Male,179,100,31.2,159/80,214,Flu,Yes,Mumbai
+10349,Jessica White,60.0,Male,189,90,25.2,105/61,109,Heart Disease,Yes,Salem
+10350,John Anderson,64.0,Female,172,97,32.8,122/94,220,Healthy,Yes,Bengaluru
+10351,Colleen Phillips,51.0,Female,164,92,34.2,148/62,235,Cancer,No,Coimbatore
+10352,Laura Wilson,85.0,Female,173,78,26.1,108/76,72,Healthy,No,Salem
+10353,Diana Stewart,47.0,Female,173,54,18.0,148/65,77,Asthma,Yes,Chennai
+10354,Jeffery Smith,44.0,Male,184,77,22.7,116/98,163,Asthma,Yes,Trichy
+10355,Teresa Brooks,62.0,Male,183,46,13.7,128/91,124,Flu,No,Delhi
+10356,Teresa Graham,21.0,Male,163,65,24.5,142/60,86,COVID-19,No,Chennai
+10357,Brian Riley,66.0,Female,164,81,30.1,158/84,238,Heart Disease,Yes,Coimbatore
+10358,Deanna Martin,73.0,Male,151,61,26.8,114/82,122,Flu,No,Coimbatore
+10359,Ethan Weiss,81.0,Male,169,101,35.4,136/70,192,Cancer,Yes,Coimbatore
+10360,Sarah Davenport,60.0,Male,168,50,17.7,131/75,111,Flu,No,Madurai
+10361,Aaron Logan,44.0,Female,187,48,13.7,102/88,116,COVID-19,Yes,Coimbatore
+10362,Mr. Eric Adams,32.0,Male,151,96,42.1,158/60,104,Cancer,Yes,Bengaluru
+10363,Andrea Weiss,39.0,Female,156,93,38.2,143/85,93,COVID-19,No,Mumbai
+10364,Pedro Maldonado,22.0,Male,171,102,34.9,112/100,73,Diabetes,Yes,Madurai
+10365,Christopher Martinez,31.0,Male,186,72,20.8,103/80,86,Hypertension,Yes,Delhi
+10366,Dawn Owens,72.0,Male,158,78,31.2,111/74,208,Asthma,Yes,Bengaluru
+10367,Alison Mays,27.0,Female,181,103,31.4,113/74,88,Cancer,Yes,Chennai
+10368,Tracy Arellano,26.0,Male,166,62,22.5,112/92,82,COVID-19,No,Coimbatore
+10369,Caleb Green,23.0,Female,150,65,28.9,134/78,210,Flu,No,Coimbatore
+10370,Michelle Armstrong,58.0,Female,175,72,23.5,124/69,169,COVID-19,No,Trichy
+10371,Mark Davies,48.0,Female,190,45,12.5,144/99,166,Heart Disease,Yes,Salem
+10372,Richard Crawford,22.0,Male,155,98,40.8,125/95,153,Arthritis,No,Delhi
+10373,Alan Zimmerman,78.0,Female,186,45,13.0,132/81,221,Healthy,No,Madurai
+10374,Joseph Jimenez PhD,66.0,Female,190,95,26.3,145/64,170,Healthy,No,Bengaluru
+10375,Jade Lopez,46.0,Female,154,85,35.8,116/90,159,,No,Madurai
+10376,Scott Mann,85.0,Female,159,49,19.4,133/73,205,Asthma,No,Madurai
+10377,Chloe Wagner,76.0,Male,161,54,20.8,140/62,152,COVID-19,No,Mumbai
+10378,Marcus Collier,37.0,Female,157,71,28.8,124/66,163,Flu,No,Delhi
+10379,Andrea Robinson,68.0,Female,155,62,25.8,128/67,185,Arthritis,Yes,Trichy
+10380,Brittany Porter,34.0,Female,150,88,39.1,131/93,239,Heart Disease,No,Bengaluru
+10381,Janice Stone,20.0,Male,174,61,20.1,100/96,136,Diabetes,Yes,Coimbatore
+10382,Tony Gray,59.0,Female,184,62,18.3,115/76,182,Hypertension,No,Salem
+10383,Robert Black,72.0,Female,162,53,20.2,139/83,81,Arthritis,No,Bengaluru
+10384,Julie Smith,55.0,Female,152,90,39.0,127/98,135,Flu,Yes,Mumbai
+10385,Marcus Rivera,42.0,Female,187,53,15.2,104/73,154,Hypertension,Yes,Delhi
+10386,Brandon Williams,85.0,Female,174,70,23.1,131/61,97,Arthritis,No,Mumbai
+10387,Brandon Schmitt,40.0,Male,176,75,24.2,128/85,195,Asthma,Yes,Madurai
+10388,Stacey Cohen,23.0,Female,162,70,26.7,135/81,169,Arthritis,Yes,Salem
+10389,Jonathan Brown,27.0,Male,164,99,36.8,106/91,92,Heart Disease,No,Chennai
+10390,Anne Thompson,60.0,Female,162,90,34.3,155/63,210,COVID-19,Yes,Mumbai
+10391,Lee Hubbard,36.0,Female,153,100,42.7,121/72,202,Diabetes,Yes,Coimbatore
+10392,Chelsea Romero,29.0,Female,183,61,18.2,124/76,239,Cancer,No,Mumbai
+10393,Keith White,56.0,Male,153,64,27.3,155/84,181,Healthy,No,Coimbatore
+10394,Felicia Lewis,24.0,Male,162,53,20.2,134/83,188,,Yes,Bengaluru
+10395,Kristina Holmes,76.0,Male,171,57,19.5,146/80,72,Healthy,Yes,Mumbai
+10396,Gerald Liu,59.0,Male,186,97,28.0,117/74,182,Cancer,Yes,Madurai
+10397,Ashley Collins,76.0,Female,187,84,24.0,159/88,122,,Yes,Trichy
+10398,Mary Castillo,33.0,Male,177,99,31.6,108/64,222,Arthritis,Yes,Chennai
+10399,Mary Cummings,39.0,Female,185,92,26.9,114/78,124,Healthy,Yes,Trichy
+10400,Elizabeth Nelson,,Female,163,78,29.4,106/72,93,Diabetes,No,Madurai
+10401,Anna Pham,74.0,Female,166,90,32.7,109/63,104,Diabetes,Yes,Delhi
+10402,Diane Rasmussen,47.0,Female,168,93,33.0,145/95,109,Cancer,No,Bengaluru
+10403,Dean Peterson,45.0,Male,185,98,28.6,160/74,170,Diabetes,No,Mumbai
+10404,Donald Wilson,55.0,Male,159,86,34.0,141/94,93,Heart Disease,No,Trichy
+10405,Keith Gibson,60.0,Female,161,72,27.8,107/62,160,Hypertension,Yes,Salem
+10406,Paula Peters,62.0,Male,168,76,26.9,148/91,93,Heart Disease,No,Coimbatore
+10407,Shane Hayes,29.0,Male,169,83,29.1,108/90,139,Heart Disease,No,Chennai
+10408,John Mitchell,30.0,Male,187,83,23.7,122/72,108,Cancer,Yes,Trichy
+10409,Melody Ballard,75.0,Female,171,67,22.9,115/81,163,Asthma,Yes,Coimbatore
+10410,Ralph Carpenter,76.0,Male,154,91,38.4,147/95,98,Asthma,No,Delhi
+10411,Kathryn Howard,23.0,Male,152,47,20.3,126/68,176,Flu,Yes,Bengaluru
+10412,Robin Edwards,39.0,Male,160,68,26.6,121/60,235,Arthritis,No,Trichy
+10413,Stephanie Fowler,31.0,Male,166,51,18.5,107/69,197,Cancer,Yes,Bengaluru
+10414,Rebecca Hunt,38.0,Male,179,60,18.7,132/76,163,Heart Disease,No,Mumbai
+10415,Mary Higgins,34.0,Male,185,58,16.9,146/94,198,Heart Disease,Yes,Chennai
+10416,Jason Hamilton,24.0,Female,156,105,43.1,150/96,123,Heart Disease,Yes,Trichy
+10417,Andrea Ramos,51.0,Male,159,98,38.8,127/85,229,Healthy,Yes,Coimbatore
+10418,Brittany Carr,33.0,Male,186,101,29.2,142/97,125,Heart Disease,Yes,Chennai
+10419,Katelyn Parker,61.0,Male,165,49,18.0,102/73,228,Asthma,No,Bengaluru
+10420,Gina Stewart,77.0,Male,155,96,40.0,100/80,175,COVID-19,Yes,Salem
+10421,Kendra Perkins,83.0,Male,165,54,19.8,109/82,105,Heart Disease,Yes,Madurai
+10422,Mr. Martin Lewis,26.0,Male,171,90,30.8,150/90,79,Arthritis,No,Salem
+10423,Lisa Smith,26.0,Male,188,85,24.0,155/100,82,Flu,No,Salem
+10424,Dawn Vasquez MD,38.0,Female,172,82,27.7,143/91,104,Cancer,No,Chennai
+10425,John Powers,39.0,Female,179,98,30.6,124/100,201,Cancer,Yes,Salem
+10426,Timothy Prince,47.0,Male,166,93,33.7,112/97,187,Healthy,Yes,Delhi
+10427,Christina Sanders,24.0,Female,186,103,29.8,142/85,230,Flu,No,Mumbai
+10428,Robert Lane,61.0,Female,155,59,24.6,150/79,71,Cancer,No,Chennai
+10429,Carol Mclean,78.0,Female,157,101,41.0,126/98,146,Arthritis,Yes,Bengaluru
+10430,William Daniels,28.0,Female,184,58,17.1,125/89,228,Diabetes,No,Bengaluru
+10431,Michael White,41.0,Female,155,62,25.8,126/94,131,Hypertension,Yes,Chennai
+10432,Erin Reed,41.0,Female,174,97,32.0,117/81,108,Flu,Yes,Madurai
+10433,Susan Wilson DDS,68.0,Female,172,101,34.1,131/80,199,Heart Disease,Yes,Mumbai
+10434,James Jones,18.0,Male,183,45,13.4,106/75,186,Cancer,No,Salem
+10435,Spencer White,83.0,Female,185,92,26.9,108/76,240,COVID-19,Yes,Bengaluru
+10436,Andrew Knapp,55.0,Female,178,62,19.6,119/100,166,Healthy,Yes,Delhi
+10437,Joseph King,20.0,Male,181,68,20.8,156/67,212,COVID-19,No,Coimbatore
+10438,Rachael Martin,37.0,Female,182,102,30.8,102/80,193,Asthma,Yes,Coimbatore
+10439,Cathy Mejia,83.0,Male,159,57,22.5,125/71,220,Cancer,Yes,Coimbatore
+10440,Jody Valencia,71.0,Female,184,46,13.6,141/65,233,COVID-19,No,Bengaluru
+10441,Richard Carter,38.0,Female,167,65,23.3,152/63,206,Flu,Yes,Madurai
+10442,Jonathan Moore,25.0,Male,183,96,28.7,119/93,113,Cancer,Yes,Coimbatore
+10443,Michelle Mccarthy,64.0,Male,174,94,31.0,117/79,191,Heart Disease,No,Delhi
+10444,Scott Hodges,51.0,Female,175,51,16.7,125/80,168,Arthritis,No,Salem
+10445,Susan Pratt MD,75.0,Female,163,104,39.1,140/70,150,Diabetes,Yes,Coimbatore
+10446,Kristina Thomas,70.0,Male,184,75,22.2,117/85,162,COVID-19,No,Salem
+10447,Franklin Rodriguez,19.0,Male,166,73,26.5,134/96,148,Flu,No,Coimbatore
+10448,Michael Hines,26.0,Male,165,101,37.1,148/98,175,Hypertension,No,Trichy
+10449,Brian Clark,33.0,Female,161,91,35.1,125/81,172,COVID-19,No,Bengaluru
+10450,Peggy Lee,41.0,Male,172,100,33.8,134/93,175,Cancer,Yes,Madurai
+10451,Donald Francis,26.0,Female,171,88,30.1,104/92,70,Heart Disease,No,Mumbai
+10452,Claudia Rice,53.0,Male,163,81,30.5,109/74,131,Healthy,Yes,Coimbatore
+10453,Courtney Quinn,66.0,Female,152,92,39.8,108/84,226,Cancer,Yes,Coimbatore
+10454,Derrick Johnson,46.0,Female,188,58,16.4,106/83,215,Hypertension,No,Chennai
+10455,Blake Vang,,Female,183,49,14.6,113/60,187,Asthma,No,Coimbatore
+10456,Kelly Poole,,Male,182,48,14.5,102/94,189,Hypertension,No,Madurai
+10457,Gabrielle Hensley,61.0,Female,168,85,30.1,133/96,128,Heart Disease,Yes,Coimbatore
+10458,David Stevens,21.0,Male,186,79,22.8,149/71,77,Healthy,No,Mumbai
+10459,Tonya Lee,53.0,Male,173,49,16.4,137/67,172,COVID-19,No,Madurai
+10460,Laura Ruiz,65.0,Female,153,96,41.0,142/76,88,Arthritis,Yes,Mumbai
+10461,Kenneth Hall,76.0,Male,179,88,27.5,121/99,118,Hypertension,No,Trichy
+10462,Austin Byrd,42.0,Male,168,93,33.0,147/93,74,Arthritis,Yes,Madurai
+10463,Alexandra Russell,55.0,Male,166,57,20.7,158/99,74,Hypertension,No,Madurai
+10464,Teresa Montgomery,51.0,Female,176,45,14.5,140/70,214,Flu,No,Coimbatore
+10465,Taylor Hernandez,40.0,Female,156,47,19.3,126/61,186,Hypertension,No,Salem
+10466,Lori Alexander MD,78.0,Female,159,68,26.9,105/81,151,Arthritis,Yes,Salem
+10467,Harold Perez,50.0,Female,183,81,24.2,113/82,134,Diabetes,Yes,Coimbatore
+10468,Julie Ball,67.0,Male,183,72,21.5,151/87,104,Asthma,Yes,Salem
+10469,Mary Kramer,66.0,Male,163,91,34.3,100/65,188,Diabetes,Yes,Salem
+10470,Mark Miller,77.0,Female,170,66,22.8,149/100,122,Diabetes,Yes,Madurai
+10471,Christopher Moody,31.0,Male,172,69,23.3,137/68,121,Arthritis,No,Delhi
+10472,Molly Flynn,,Female,154,81,34.2,110/85,236,Heart Disease,No,Delhi
+10473,Kimberly Mullen,33.0,Female,188,54,15.3,138/84,86,Heart Disease,Yes,Chennai
+10474,Jeffrey Obrien,46.0,Male,175,81,26.4,115/66,121,Diabetes,Yes,Delhi
+10475,Jennifer Hernandez,48.0,Male,153,70,29.9,149/62,212,COVID-19,No,Chennai
+10476,Robert Wallace,20.0,Female,159,74,29.3,148/66,94,Asthma,Yes,Trichy
+10477,Tony Hester,59.0,Male,189,77,21.6,132/84,70,Hypertension,Yes,Salem
+10478,Mary Fischer,27.0,Male,182,80,24.2,142/94,227,Cancer,No,Mumbai
+10479,Jamie Mcfarland,44.0,Male,150,80,35.6,111/92,187,Heart Disease,Yes,Madurai
+10480,Jessica Cortez,29.0,Female,177,52,16.6,143/66,92,Heart Disease,Yes,Salem
+10481,Joel Webster,56.0,Female,173,62,20.7,148/78,107,Arthritis,No,Madurai
+10482,Wendy Santos,27.0,Male,150,50,22.2,107/98,124,,No,Delhi
+10483,Robert Moore,44.0,Male,176,104,33.6,158/61,85,Diabetes,Yes,Mumbai
+10484,Dale Mcmahon,55.0,Female,153,56,23.9,116/68,134,Cancer,No,Chennai
+10485,Justin Taylor,30.0,Male,170,69,23.9,128/70,237,Arthritis,No,Coimbatore
+10486,Carol Williams,70.0,Male,165,45,16.5,121/74,209,Flu,No,Chennai
+10487,Samuel Carson,61.0,Male,165,101,37.1,134/70,96,Diabetes,No,Mumbai
+10488,Joshua Hogan,64.0,Male,190,66,18.3,134/67,187,Asthma,Yes,Chennai
+10489,David Mclaughlin,70.0,Male,184,60,17.7,141/73,125,Cancer,Yes,Coimbatore
+10490,Kathryn Rowe,33.0,Male,177,90,28.7,139/88,227,Asthma,No,Mumbai
+10491,Lori Allison,50.0,Male,165,66,24.2,105/73,234,Cancer,Yes,Salem
+10492,Anthony Gonzalez,68.0,Female,188,49,13.9,104/64,87,Healthy,Yes,Salem
+10493,Kevin Forbes,36.0,Male,173,49,16.4,146/91,235,Healthy,No,Delhi
+10494,Colleen Cuevas,30.0,Female,161,102,39.4,119/85,174,Asthma,No,Salem
+10495,Virginia Mckinney,59.0,Male,179,66,20.6,101/84,127,Hypertension,Yes,Bengaluru
+10496,Jeffrey Camacho,19.0,Male,171,62,21.2,104/65,110,Cancer,No,Trichy
+10497,Justin Dixon,79.0,Male,152,54,23.4,153/63,168,Cancer,Yes,Madurai
+10498,Monique Martinez,55.0,Male,153,49,20.9,117/68,160,Flu,Yes,Trichy
+10499,Veronica Huber,50.0,Female,173,95,31.7,123/70,203,Hypertension,Yes,Trichy
+10500,Tristan Andrews,66.0,Male,168,93,33.0,114/72,126,COVID-19,No,Madurai
+10501,Sarah Cameron,18.0,Male,180,61,18.8,106/84,164,Heart Disease,No,Chennai
+10502,Alison Edwards,80.0,Male,180,73,22.5,107/89,212,Arthritis,Yes,Mumbai
+10503,Jamie Franklin,79.0,Male,157,76,30.8,158/74,179,Arthritis,Yes,Salem
+10504,Antonio Little,52.0,Female,162,49,18.7,128/90,131,Flu,Yes,Salem
+10505,Dr. Dawn Johnson MD,79.0,Male,182,59,17.8,136/99,166,,Yes,Mumbai
+10506,Ann Fox,48.0,Male,183,48,14.3,132/80,124,Hypertension,Yes,Delhi
+10507,Rodney Lewis II,76.0,Male,166,74,26.9,104/88,231,Flu,Yes,Madurai
+10508,Sarah Anderson,64.0,Male,167,87,31.2,107/90,193,Cancer,Yes,Chennai
+10509,Kelly Wright,83.0,Male,190,86,23.8,141/90,78,Healthy,Yes,Delhi
+10510,Richard Brown,64.0,Male,188,53,15.0,124/80,80,Flu,Yes,Madurai
+10511,Amanda Rose,76.0,Male,151,83,36.4,128/73,79,Cancer,No,Trichy
+10512,Amber Williamson,58.0,Male,162,64,24.4,160/64,172,Diabetes,Yes,Chennai
+10513,Judy Johnson,79.0,Male,173,105,35.1,104/90,165,Healthy,No,Madurai
+10514,Emily Walter,45.0,Male,189,102,28.6,153/90,121,Cancer,No,Coimbatore
+10515,Colin Morris,59.0,Male,164,93,34.6,126/71,157,COVID-19,Yes,Bengaluru
+10516,Alicia Bridges,18.0,Male,160,60,23.4,138/76,225,Arthritis,No,Mumbai
+10517,Martin Brady,48.0,Male,158,61,24.4,117/86,108,Asthma,Yes,Bengaluru
+10518,Robert Kane,47.0,Female,153,55,23.5,110/65,219,Arthritis,No,Coimbatore
+10519,Mary Johnson,46.0,Male,186,87,25.1,147/77,174,Hypertension,Yes,Mumbai
+10520,Timothy Rivera,55.0,Male,156,46,18.9,118/71,105,COVID-19,Yes,Mumbai
+10521,John Beltran,83.0,Male,169,96,33.6,128/75,197,Healthy,No,Madurai
+10522,Theresa Berg,50.0,Female,177,49,15.6,111/76,234,Heart Disease,No,Bengaluru
+10523,Rhonda Myers,27.0,Male,183,61,18.2,139/90,124,Flu,Yes,Delhi
+10524,Mr. James Hill,41.0,Female,180,66,20.4,120/74,180,Hypertension,Yes,Mumbai
+10525,Lauren Cervantes,47.0,Female,175,53,17.3,147/83,167,Arthritis,No,Trichy
+10526,Miguel Cole,45.0,Female,164,85,31.6,107/62,200,Asthma,No,Mumbai
+10527,Bridget Santos,76.0,Female,154,75,31.6,136/94,161,Flu,No,Bengaluru
+10528,James Jensen,79.0,Male,161,96,37.0,143/70,170,Flu,Yes,Coimbatore
+10529,Andrea Parker,,Male,185,86,25.1,145/97,120,Flu,No,Coimbatore
+10530,James Garcia,26.0,Female,160,97,37.9,154/97,81,Heart Disease,Yes,Mumbai
+10531,Danielle Dickson,21.0,Male,185,62,18.1,151/60,114,Hypertension,Yes,Chennai
+10532,Christina Lopez,40.0,Female,161,59,22.8,157/75,74,Diabetes,Yes,Salem
+10533,Jerry Hunt,37.0,Female,155,57,23.7,121/64,203,Flu,No,Coimbatore
+10534,Michael Gibson,79.0,Female,176,92,29.7,121/63,91,Cancer,Yes,Coimbatore
+10535,Jimmy Buckley,24.0,Female,155,49,20.4,108/81,157,Healthy,No,Trichy
+10536,Robert Johnson,24.0,Male,162,83,31.6,153/87,168,Cancer,Yes,Madurai
+10537,Andrew Krueger,27.0,Female,169,96,33.6,106/64,220,Asthma,Yes,Delhi
+10538,Joshua Torres,47.0,Male,179,95,29.6,152/90,214,COVID-19,Yes,Chennai
+10539,Justin Johnson,45.0,Male,162,104,39.6,153/100,187,Heart Disease,No,Mumbai
+10540,Erik Dawson,60.0,Male,183,79,23.6,101/74,76,Heart Disease,No,Madurai
+10541,Heather Lewis,76.0,Male,190,90,24.9,157/71,122,Cancer,No,Trichy
+10542,Kristin Clark,46.0,Female,160,48,18.7,149/81,149,COVID-19,No,Coimbatore
+10543,Brandon Gutierrez,58.0,Male,153,94,40.2,118/63,153,Healthy,Yes,Trichy
+10544,Sergio Nelson,49.0,Female,161,104,40.1,101/72,152,Hypertension,No,Delhi
+10545,Caleb Mason,27.0,Male,183,64,19.1,142/64,229,COVID-19,No,Delhi
+10546,Megan Moore,83.0,Male,154,61,25.7,128/80,192,COVID-19,No,Delhi
+10547,Miss Kelly Jones,24.0,Male,170,84,29.1,149/89,92,Cancer,Yes,Chennai
+10548,Gregory Rice,26.0,Female,185,53,15.5,143/99,78,Cancer,Yes,Bengaluru
+10549,Melinda Diaz,28.0,Male,177,78,24.9,125/66,83,Diabetes,No,Trichy
+10550,Cynthia Phillips,27.0,Female,183,51,15.2,110/94,224,,Yes,Madurai
+10551,Carol Davis,72.0,Female,161,69,26.6,123/67,132,Arthritis,Yes,Salem
+10552,Allison Levine,67.0,Female,166,105,38.1,114/71,224,Cancer,No,Mumbai
+10553,Dawn Mcguire DVM,34.0,Male,162,91,34.7,158/91,97,Healthy,No,Madurai
+10554,Andrew Larson,83.0,Female,151,61,26.8,152/69,227,Flu,No,Trichy
+10555,Richard Gonzalez,42.0,Female,171,88,30.1,103/60,129,Flu,Yes,Coimbatore
+10556,Andrea Lloyd,22.0,Female,188,47,13.3,114/80,138,Flu,No,Bengaluru
+10557,Mr. Thomas Diaz,68.0,Female,189,67,18.8,118/67,128,Diabetes,No,Madurai
+10558,Veronica Hahn,39.0,Male,153,101,43.1,152/79,134,Healthy,No,Mumbai
+10559,Suzanne Nichols,57.0,Male,177,98,31.3,115/94,156,Diabetes,No,Trichy
+10560,Pamela Barker,35.0,Male,170,101,34.9,150/95,186,Flu,No,Delhi
+10561,Rachel Williams,61.0,Female,163,91,34.3,115/64,95,Hypertension,No,Chennai
+10562,Matthew Hernandez,65.0,Male,151,59,25.9,139/64,197,Diabetes,Yes,Delhi
+10563,Claire Neal,57.0,Female,190,70,19.4,124/79,233,Arthritis,No,Bengaluru
+10564,Mary Garza,63.0,Male,169,92,32.2,138/97,202,Hypertension,No,Delhi
+10565,Carolyn Cain,47.0,Male,176,45,14.5,113/83,208,Flu,Yes,Chennai
+10566,Robert Cooper,73.0,Male,179,82,25.6,145/68,179,Hypertension,Yes,Coimbatore
+10567,Shelly Davis DDS,63.0,Male,182,95,28.7,114/98,84,Heart Disease,No,Mumbai
+10568,Herbert Johns,27.0,Female,160,69,27.0,112/80,147,Flu,Yes,Delhi
+10569,Calvin Martinez,82.0,Male,184,93,27.5,142/69,224,COVID-19,Yes,Trichy
+10570,William Rogers,32.0,Female,151,103,45.2,103/63,123,Healthy,Yes,Madurai
+10571,Devin Martinez,37.0,Male,182,74,22.3,109/69,231,Arthritis,Yes,Mumbai
+10572,Margaret White,51.0,Female,158,83,33.2,114/86,125,Healthy,No,Chennai
+10573,Stephanie Hooper,18.0,Female,155,94,39.1,157/70,130,Healthy,No,Madurai
+10574,Frederick Alvarez,40.0,Male,183,97,29.0,138/71,121,Hypertension,No,Madurai
+10575,Jack Mitchell,72.0,Male,167,98,35.1,131/60,183,Hypertension,Yes,Mumbai
+10576,Kari Hall,76.0,Male,159,65,25.7,140/73,209,Flu,No,Madurai
+10577,Vincent Ryan,38.0,Female,162,59,22.5,122/99,181,Cancer,No,Trichy
+10578,Carl Heath,75.0,Male,190,58,16.1,109/72,220,Flu,Yes,Coimbatore
+10579,Shaun Elliott,79.0,Female,161,71,27.4,149/97,194,Arthritis,No,Delhi
+10580,Julie Brooks,78.0,Male,183,57,17.0,132/70,129,Hypertension,No,Mumbai
+10581,Holly Armstrong,30.0,Female,154,70,29.5,146/87,155,Flu,No,Trichy
+10582,Bianca Turner,18.0,Male,179,100,31.2,154/90,160,Healthy,No,Mumbai
+10583,Lori Welch,38.0,Male,189,64,17.9,160/69,230,Flu,No,Bengaluru
+10584,Anthony Hamilton,46.0,Female,187,81,23.2,151/70,210,Healthy,No,Trichy
+10585,Lisa Taylor,35.0,Male,168,52,18.4,139/80,192,,No,Coimbatore
+10586,Amanda Johnson,20.0,Female,173,78,26.1,135/94,153,Arthritis,Yes,Bengaluru
+10587,Joseph Armstrong,51.0,Male,166,69,25.0,123/84,87,Flu,Yes,Coimbatore
+10588,Susan Hernandez,81.0,Male,171,63,21.5,160/84,75,Hypertension,Yes,Madurai
+10589,Alyssa Cochran,35.0,Male,153,92,39.3,119/74,126,Diabetes,No,Coimbatore
+10590,Kristin Rivera,31.0,Male,157,91,36.9,135/95,92,Asthma,No,Madurai
+10591,Rhonda Hardin,81.0,Female,152,92,39.8,127/65,231,Asthma,Yes,Coimbatore
+10592,Matthew Wright,25.0,Male,152,50,21.6,107/62,75,Flu,Yes,Salem
+10593,Scott Lopez,31.0,Male,179,55,17.2,112/98,161,Heart Disease,No,Salem
+10594,Noah Ballard,68.0,Female,177,65,20.7,116/88,129,Arthritis,Yes,Trichy
+10595,Christian Franklin,37.0,Female,160,56,21.9,140/63,184,Healthy,Yes,Delhi
+10596,Nicholas Jones,19.0,Female,185,95,27.8,128/61,223,Flu,No,Trichy
+10597,John Garcia,84.0,Male,153,103,44.0,131/71,168,Asthma,Yes,Chennai
+10598,Shannon Mcbride,42.0,Female,173,71,23.7,146/86,155,Arthritis,Yes,Bengaluru
+10599,Christopher Cohen,52.0,Male,174,57,18.8,150/99,71,Flu,No,Coimbatore
+10600,Joshua Price,38.0,Female,189,66,18.5,160/77,91,Arthritis,Yes,Trichy
+10601,Michelle Knight,28.0,Female,177,93,29.7,158/78,220,Healthy,No,Chennai
+10602,Tommy Chambers,35.0,Male,155,82,34.1,124/77,99,COVID-19,No,Coimbatore
+10603,Kristin Sparks,75.0,Female,155,91,37.9,106/62,196,Cancer,Yes,Salem
+10604,Lisa Lambert,65.0,Male,166,62,22.5,158/92,198,Healthy,No,Coimbatore
+10605,Krista Torres,58.0,Female,179,86,26.8,143/90,100,Diabetes,Yes,Coimbatore
+10606,Judith Nichols,34.0,Female,153,83,35.5,140/84,133,Cancer,Yes,Delhi
+10607,Amy Glenn,29.0,Male,180,46,14.2,154/62,125,Arthritis,No,Salem
+10608,Christine Sampson,41.0,Male,168,66,23.4,141/67,235,Asthma,No,Bengaluru
+10609,Alexis Welch,46.0,Female,160,55,21.5,154/74,134,Cancer,Yes,Madurai
+10610,Kenneth Garcia,56.0,Male,160,103,40.2,140/84,206,Arthritis,Yes,Salem
+10611,John Barker,,Female,176,103,33.3,143/63,168,Heart Disease,No,Delhi
+10612,Ashlee Schultz,51.0,Male,183,57,17.0,133/67,211,Flu,No,Trichy
+10613,Stephen Orr,78.0,Female,158,102,40.9,131/77,214,Flu,Yes,Delhi
+10614,Alicia Mitchell,38.0,Female,187,66,18.9,156/66,164,COVID-19,Yes,Trichy
+10615,Charles Castro,54.0,Female,181,82,25.0,124/96,210,Asthma,No,Chennai
+10616,Jamie Thompson,,Male,170,58,20.1,118/89,231,Flu,No,Delhi
+10617,Sean Carter,40.0,Female,190,57,15.8,112/98,118,Cancer,No,Madurai
+10618,Jordan Terrell,71.0,Male,187,49,14.0,113/95,88,Heart Disease,Yes,Madurai
+10619,Victoria Young,54.0,Male,157,88,35.7,112/97,240,Diabetes,No,Chennai
+10620,David Williams,53.0,Female,177,50,16.0,157/96,72,Healthy,No,Bengaluru
+10621,Christopher Collins,41.0,Male,187,79,22.6,136/72,115,Heart Disease,Yes,Madurai
+10622,Philip Henderson,83.0,Female,157,62,25.2,143/84,173,Diabetes,Yes,Mumbai
+10623,Howard Donovan,52.0,Male,157,98,39.8,127/83,239,Diabetes,Yes,Chennai
+10624,Jeremy Baker,67.0,Male,177,84,26.8,123/83,211,Asthma,No,Bengaluru
+10625,Cassandra Alexander,36.0,Male,166,79,28.7,110/69,108,Hypertension,Yes,Trichy
+10626,Jacob Perez,30.0,Female,169,77,27.0,126/89,209,Diabetes,Yes,Madurai
+10627,Shane Barnes,48.0,Male,177,53,16.9,115/82,131,Hypertension,No,Mumbai
+10628,Joanna Mata,78.0,Male,177,66,21.1,114/63,185,Healthy,Yes,Chennai
+10629,Christopher Cook,41.0,Male,188,104,29.4,104/76,91,Flu,Yes,Bengaluru
+10630,Stacey Blake,57.0,Male,155,72,30.0,132/88,132,Asthma,Yes,Coimbatore
+10631,Heather Bauer,31.0,Female,177,65,20.7,159/70,220,Diabetes,No,Salem
+10632,Ms. Angela Mcgee,25.0,Female,160,97,37.9,132/62,155,Diabetes,Yes,Madurai
+10633,Valerie Combs,39.0,Male,182,70,21.1,142/73,180,Cancer,No,Salem
+10634,Tracy Morales,77.0,Male,165,102,37.5,144/74,239,COVID-19,Yes,Madurai
+10635,Brian Rodriguez,54.0,Female,176,50,16.1,121/75,138,Flu,Yes,Chennai
+10636,Willie Lewis,73.0,Male,175,71,23.2,109/65,88,Diabetes,Yes,Coimbatore
+10637,Kelli Roberts,66.0,Female,190,51,14.1,116/72,95,Arthritis,No,Coimbatore
+10638,Amy Cunningham,78.0,Male,154,104,43.9,109/64,193,COVID-19,Yes,Chennai
+10639,Joshua Santiago,23.0,Male,161,82,31.6,107/80,131,Diabetes,Yes,Coimbatore
+10640,Jeffrey Smith,64.0,Female,172,55,18.6,145/77,111,Arthritis,No,Trichy
+10641,Kevin Smith,29.0,Female,150,53,23.6,155/75,233,Asthma,No,Salem
+10642,Mr. David Barr,,Male,157,96,38.9,142/74,70,Asthma,Yes,Bengaluru
+10643,Kevin Carter,,Female,155,100,41.6,154/95,220,Arthritis,Yes,Coimbatore
+10644,Paul Douglas,79.0,Female,183,58,17.3,108/83,160,Healthy,Yes,Coimbatore
+10645,Melody Mccormick,82.0,Male,182,53,16.0,126/87,240,Asthma,Yes,Coimbatore
+10646,Heather Stone,75.0,Female,167,52,18.6,133/90,133,Healthy,No,Coimbatore
+10647,Marc Dougherty,22.0,Female,168,70,24.8,130/80,124,Arthritis,No,Coimbatore
+10648,Nicholas Waller,29.0,Female,179,68,21.2,146/73,129,COVID-19,No,Bengaluru
+10649,Lauren Gordon,25.0,Female,151,62,27.2,123/86,78,COVID-19,No,Madurai
+10650,Bryan Mendoza,78.0,Male,171,66,22.6,146/71,194,Hypertension,No,Madurai
+10651,Erika Castillo,80.0,Male,167,102,36.6,145/68,156,COVID-19,No,Coimbatore
+10652,Tracey Dunn,58.0,Male,176,54,17.4,141/71,110,Flu,No,Chennai
+10653,John Williams,22.0,Male,165,66,24.2,157/63,179,COVID-19,Yes,Trichy
+10654,Alicia Smith,33.0,Male,173,77,25.7,157/77,182,Healthy,No,Coimbatore
+10655,Brianna Cruz,67.0,Male,151,70,30.7,124/60,165,Hypertension,No,Bengaluru
+10656,Kyle Farmer,22.0,Male,158,88,35.3,113/61,218,,No,Salem
+10657,Jennifer Gutierrez,48.0,Male,162,90,34.3,130/97,217,Flu,Yes,Chennai
+10658,Amy Jones,84.0,Male,186,65,18.8,132/89,101,Heart Disease,Yes,Delhi
+10659,James Armstrong,64.0,Male,169,71,24.9,157/74,99,Flu,No,Madurai
+10660,Michael Riley,60.0,Male,177,60,19.2,124/100,79,Healthy,No,Coimbatore
+10661,Samantha Martinez,79.0,Female,180,94,29.0,100/63,239,COVID-19,No,Madurai
+10662,Richard Williams,40.0,Female,188,84,23.8,135/84,110,Hypertension,No,Delhi
+10663,Anthony Anderson,77.0,Male,155,64,26.6,144/60,87,Hypertension,Yes,Trichy
+10664,Mark White,73.0,Female,173,45,15.0,132/89,144,Flu,No,Trichy
+10665,Amy Morgan,85.0,Female,156,77,31.6,107/83,144,Healthy,Yes,Madurai
+10666,Mary Peterson,60.0,Female,174,67,22.1,118/65,228,Flu,Yes,Bengaluru
+10667,Jennifer Clark,59.0,Male,184,86,25.4,121/67,156,Asthma,No,Chennai
+10668,Debbie Brown,69.0,Male,173,59,19.7,110/72,240,Healthy,No,Bengaluru
+10669,Danielle Nelson,47.0,Male,175,61,19.9,150/89,112,Flu,Yes,Chennai
+10670,Charles Johnson,59.0,Female,174,59,19.5,143/62,197,Healthy,No,Madurai
+10671,Kelly Gill,26.0,Male,184,56,16.5,144/71,136,Healthy,Yes,Trichy
+10672,Erik Mcgee,58.0,Female,182,100,30.2,135/94,104,Arthritis,Yes,Trichy
+10673,Connie Brown,56.0,Male,167,64,22.9,134/99,216,Heart Disease,No,Bengaluru
+10674,Nicholas Gibson,64.0,Female,186,53,15.3,128/95,112,Diabetes,Yes,Salem
+10675,Jordan Kim,22.0,Male,189,84,23.5,117/64,115,Healthy,Yes,Chennai
+10676,Devin Thomas,47.0,Female,189,101,28.3,105/89,206,Heart Disease,Yes,Madurai
+10677,Austin English,61.0,Male,170,102,35.3,108/81,165,Hypertension,Yes,Chennai
+10678,Jamie Frederick,33.0,Male,189,91,25.5,110/78,141,Cancer,Yes,Madurai
+10679,Emily Bennett,53.0,Male,178,83,26.2,151/63,143,Heart Disease,No,Salem
+10680,Corey Gross,36.0,Female,185,75,21.9,144/94,188,COVID-19,No,Madurai
+10681,Erica Foley,52.0,Male,164,62,23.1,108/79,171,Diabetes,Yes,Salem
+10682,Brian Jones,65.0,Female,163,73,27.5,132/82,198,Arthritis,Yes,Bengaluru
+10683,Austin Rollins,38.0,Female,175,58,18.9,131/85,110,Healthy,Yes,Mumbai
+10684,Ronald Marquez,82.0,Male,161,75,28.9,150/72,237,Heart Disease,No,Salem
+10685,Jennifer Roberson,62.0,Male,166,62,22.5,130/78,166,Heart Disease,No,Mumbai
+10686,Keith Salazar,56.0,Female,150,100,44.4,150/68,211,Healthy,Yes,Trichy
+10687,Thomas Johnson,30.0,Female,168,88,31.2,152/89,181,COVID-19,Yes,Salem
+10688,Kristin Rose,40.0,Male,159,71,28.1,120/74,234,COVID-19,No,Coimbatore
+10689,William Marsh,41.0,Male,159,51,20.2,110/90,220,Healthy,Yes,Delhi
+10690,Andrew Manning,30.0,Male,182,76,22.9,159/72,183,Diabetes,Yes,Mumbai
+10691,Kenneth Mendoza,57.0,Male,163,99,37.3,160/96,114,Flu,No,Salem
+10692,Jeanette Cortez,26.0,Male,180,96,29.6,144/79,109,Cancer,Yes,Chennai
+10693,Scott Abbott,24.0,Male,186,100,28.9,115/73,91,Cancer,No,Salem
+10694,William Gutierrez,41.0,Female,166,76,27.6,100/79,188,Heart Disease,No,Madurai
+10695,Billy Knight,46.0,Male,176,52,16.8,107/81,97,Arthritis,No,Chennai
+10696,Elizabeth Crawford,62.0,Male,164,58,21.6,120/84,175,Healthy,No,Madurai
+10697,Joshua Cummings,27.0,Female,169,71,24.9,143/87,219,Healthy,No,Coimbatore
+10698,Mr. Devin Jones Jr.,70.0,Female,161,97,37.4,113/63,213,Heart Disease,No,Madurai
+10699,Barbara Watson,33.0,Male,185,77,22.5,143/83,180,Diabetes,Yes,Coimbatore
+10700,Michaela Walker,38.0,Male,190,76,21.1,130/68,146,COVID-19,Yes,Trichy
+10701,Mia Russo,18.0,Female,175,87,28.4,101/84,183,Flu,Yes,Bengaluru
+10702,Alexis Fuller,24.0,Male,154,53,22.3,118/62,145,Cancer,Yes,Salem
+10703,Katherine Pham,26.0,Female,155,91,37.9,101/83,115,COVID-19,No,Salem
+10704,William Glass,77.0,Female,157,78,31.6,131/88,168,Hypertension,No,Madurai
+10705,Anthony Castro,59.0,Female,174,57,18.8,141/84,170,Healthy,No,Salem
+10706,Chris Perry,75.0,Female,187,47,13.4,155/72,109,Arthritis,No,Coimbatore
+10707,Christopher Moore,84.0,Male,173,54,18.0,127/69,139,Heart Disease,Yes,Chennai
+10708,Austin Bishop,22.0,Female,176,50,16.1,142/79,220,Arthritis,Yes,Salem
+10709,Jeffrey Gonzalez,56.0,Male,156,70,28.8,151/84,163,Asthma,No,Salem
+10710,Daniel Flores,37.0,Male,151,46,20.2,140/65,93,Healthy,Yes,Salem
+10711,Jason Copeland,71.0,Female,158,63,25.2,116/97,131,Flu,Yes,Salem
+10712,Brittany Matthews,70.0,Female,184,105,31.0,138/63,98,Hypertension,No,Salem
+10713,Karen Turner,45.0,Female,186,89,25.7,143/91,144,Asthma,No,Chennai
+10714,Christina Mitchell MD,59.0,Female,168,74,26.2,135/77,233,Healthy,Yes,Salem
+10715,Wendy Castro,61.0,Male,183,76,22.7,123/67,151,Healthy,No,Coimbatore
+10716,Mary Jacobson,70.0,Female,173,60,20.0,138/98,131,COVID-19,No,Coimbatore
+10717,Gerald Berry,44.0,Male,189,96,26.9,135/68,212,Diabetes,Yes,Coimbatore
+10718,Melissa Smith,51.0,Male,161,68,26.2,125/89,114,Hypertension,No,Salem
+10719,Karen Garza,85.0,Female,161,75,28.9,102/72,170,COVID-19,No,Madurai
+10720,Kimberly Skinner,54.0,Female,173,87,29.1,142/96,172,Healthy,No,Madurai
+10721,Danielle Houston,36.0,Female,174,105,34.7,135/89,79,Hypertension,Yes,Salem
+10722,Sara Larson,40.0,Female,185,105,30.7,156/77,187,Arthritis,No,Coimbatore
+10723,Karen Rosario,41.0,Male,188,68,19.2,110/65,109,Healthy,Yes,Delhi
+10724,Mark Briggs,31.0,Male,171,100,34.2,109/95,127,Flu,No,Coimbatore
+10725,Justin Lee,44.0,Female,155,62,25.8,158/60,181,Heart Disease,No,Delhi
+10726,Austin Alvarez,66.0,Male,150,73,32.4,106/74,173,Cancer,Yes,Chennai
+10727,Michele Hawkins,77.0,Female,187,51,14.6,137/92,93,Heart Disease,No,Coimbatore
+10728,John Duran,65.0,Male,163,48,18.1,156/67,221,Diabetes,No,Trichy
+10729,Alyssa Tran,77.0,Female,175,54,17.6,122/85,111,Heart Disease,Yes,Bengaluru
+10730,Paula Reilly,42.0,Female,188,72,20.4,136/80,82,Healthy,No,Salem
+10731,Jason Howard,50.0,Female,152,66,28.6,142/77,180,Healthy,No,Delhi
+10732,Tyler Nguyen,58.0,Male,179,74,23.1,144/99,114,Hypertension,Yes,Trichy
+10733,Stacy Berry,44.0,Female,163,53,19.9,142/81,118,Flu,No,Delhi
+10734,Michael Wagner,40.0,Male,152,85,36.8,111/88,89,Hypertension,No,Chennai
+10735,Sandra Soto,,Female,151,101,44.3,132/65,175,Heart Disease,Yes,Chennai
+10736,Kaitlyn Mendez,48.0,Female,187,71,20.3,119/100,195,COVID-19,No,Chennai
+10737,Alexandra Welch DVM,59.0,Male,182,45,13.6,138/87,121,Heart Disease,No,Chennai
+10738,Bradley Reilly,25.0,Female,151,51,22.4,154/91,196,Flu,Yes,Mumbai
+10739,Ryan Clarke,19.0,Female,187,65,18.6,140/76,174,Hypertension,No,Mumbai
+10740,Erica Khan DVM,30.0,Female,156,76,31.2,142/66,197,COVID-19,Yes,Salem
+10741,Matthew Rodriguez Jr.,56.0,Male,188,75,21.2,138/86,240,Cancer,Yes,Delhi
+10742,Craig Garcia,77.0,Female,165,67,24.6,106/78,230,Diabetes,No,Coimbatore
+10743,Michael Hayes,69.0,Male,184,60,17.7,127/89,211,Asthma,No,Coimbatore
+10744,Thomas Morris,23.0,Female,190,102,28.3,160/60,107,Flu,Yes,Madurai
+10745,James Henson,39.0,Female,151,103,45.2,115/84,127,Healthy,No,Trichy
+10746,Tiffany Carroll,74.0,Female,156,60,24.7,160/82,109,Arthritis,Yes,Coimbatore
+10747,Sara Mcguire,85.0,Female,173,46,15.4,150/91,83,Hypertension,Yes,Chennai
+10748,Jonathan Moreno,26.0,Female,175,98,32.0,121/64,109,COVID-19,Yes,Coimbatore
+10749,Jennifer Morgan,,Male,184,89,26.3,154/89,199,Asthma,No,Salem
+10750,Benjamin Weeks,37.0,Female,163,101,38.0,114/60,83,Cancer,Yes,Trichy
+10751,Joseph Schmidt,84.0,Female,178,85,26.8,153/68,117,Flu,No,Trichy
+10752,John Miller,53.0,Female,186,73,21.1,138/94,116,Asthma,No,Trichy
+10753,Jack Frazier,20.0,Male,165,89,32.7,112/79,71,Cancer,No,Salem
+10754,Stephen Briggs,77.0,Male,168,103,36.5,128/66,93,Flu,No,Trichy
+10755,Brent Baxter,27.0,Male,160,58,22.7,105/85,91,Asthma,Yes,Delhi
+10756,Susan Higgins,70.0,Female,153,100,42.7,107/61,171,Flu,Yes,Madurai
+10757,Amber Mcbride,73.0,Female,187,95,27.2,150/89,206,Flu,Yes,Mumbai
+10758,Kyle Gonzales,71.0,Female,154,63,26.6,118/67,124,COVID-19,No,Delhi
+10759,Diana Mullen,79.0,Female,168,57,20.2,124/99,92,Hypertension,No,Salem
+10760,Daniel Reyes,72.0,Female,186,73,21.1,131/76,171,Hypertension,Yes,Trichy
+10761,Kylie Nelson,42.0,Male,182,72,21.7,130/84,157,COVID-19,Yes,Salem
+10762,Haley Allen,37.0,Female,175,87,28.4,126/92,102,Cancer,No,Delhi
+10763,Jerry Byrd,79.0,Male,179,63,19.7,111/76,233,Healthy,Yes,Mumbai
+10764,Donald Cardenas,81.0,Female,151,62,27.2,156/73,179,Diabetes,No,Mumbai
+10765,Jacob Tanner,29.0,Male,162,89,33.9,140/74,149,COVID-19,Yes,Mumbai
+10766,Timothy Wilson,76.0,Female,173,81,27.1,123/84,97,Heart Disease,Yes,Coimbatore
+10767,Kiara Klein,75.0,Female,183,52,15.5,142/82,216,COVID-19,Yes,Madurai
+10768,Paula Kramer,82.0,Female,190,82,22.7,121/76,168,Flu,No,Delhi
+10769,Julie Turner,83.0,Male,152,76,32.9,142/63,110,Diabetes,No,Coimbatore
+10770,Amber George,45.0,Male,155,101,42.0,131/79,183,Healthy,No,Salem
+10771,Heather Austin,26.0,Male,152,91,39.4,142/73,93,,Yes,Coimbatore
+10772,Dwayne Moore,36.0,Female,173,49,16.4,141/87,127,Hypertension,Yes,Salem
+10773,Joshua Baker,22.0,Female,181,65,19.8,140/77,165,Arthritis,Yes,Coimbatore
+10774,Mary Johnson,41.0,Male,161,74,28.5,152/89,158,Asthma,No,Salem
+10775,Jeremy Zimmerman,64.0,Female,162,64,24.4,134/75,233,Hypertension,No,Mumbai
+10776,Brett Stewart,58.0,Male,164,84,31.2,100/88,180,Flu,No,Delhi
+10777,Emily Hanson,46.0,Female,164,81,30.1,113/100,159,Healthy,No,Bengaluru
+10778,Matthew Jenkins DVM,19.0,Male,174,50,16.5,137/94,169,Flu,No,Madurai
+10779,Brianna Webb,44.0,Female,177,95,30.3,102/90,125,Flu,No,Chennai
+10780,James Roberson,35.0,Female,166,63,22.9,151/99,122,Cancer,No,Trichy
+10781,Thomas Strickland,68.0,Female,162,64,24.4,101/66,145,Flu,Yes,Trichy
+10782,Tyler Fischer,54.0,Male,161,71,27.4,123/97,107,Hypertension,No,Coimbatore
+10783,Paula Boyd,52.0,Female,182,71,21.4,160/78,213,Flu,No,Chennai
+10784,Thomas Booker,47.0,Female,164,66,24.5,149/72,180,Cancer,No,Chennai
+10785,Jessica Stewart,19.0,Female,169,63,22.1,108/73,163,Hypertension,No,Bengaluru
+10786,Daniel Gonzalez,41.0,Female,157,77,31.2,116/65,218,Arthritis,No,Coimbatore
+10787,Austin Dennis,84.0,Male,173,78,26.1,121/86,229,Cancer,Yes,Delhi
+10788,Jillian Armstrong,35.0,Male,181,66,20.1,156/76,225,Hypertension,Yes,Madurai
+10789,Steven Jones,,Male,165,47,17.3,108/94,196,Flu,No,Bengaluru
+10790,Brenda Barnett,47.0,Female,153,57,24.3,133/90,118,Diabetes,No,Chennai
+10791,Jared Chung,62.0,Male,155,62,25.8,131/69,201,Healthy,Yes,Salem
+10792,Michael Wagner,37.0,Female,183,84,25.1,108/79,125,Flu,No,Salem
+10793,Roger Reyes,68.0,Male,180,66,20.4,149/82,75,Arthritis,No,Madurai
+10794,Amy Thompson,82.0,Male,162,79,30.1,144/89,127,Hypertension,No,Trichy
+10795,Dr. Sherry Evans,58.0,Female,156,57,23.4,143/65,175,Hypertension,Yes,Coimbatore
+10796,Richard Livingston,77.0,Female,190,69,19.1,117/81,147,Healthy,Yes,Madurai
+10797,Alexandra Whitaker,28.0,Male,181,56,17.1,154/82,218,COVID-19,Yes,Salem
+10798,Gabriela Taylor,23.0,Male,155,78,32.5,101/93,194,Arthritis,No,Coimbatore
+10799,Mark Meza,52.0,Male,151,71,31.1,117/68,188,Heart Disease,Yes,Madurai
+10800,Donna King,52.0,Male,159,46,18.2,131/86,162,Diabetes,No,Mumbai
+10801,David Nelson,31.0,Female,153,77,32.9,137/62,173,Asthma,No,Delhi
+10802,Ashley Roberts,83.0,Female,161,54,20.8,151/68,198,COVID-19,No,Coimbatore
+10803,Timothy Sherman,32.0,Female,155,60,25.0,159/83,215,Hypertension,Yes,Madurai
+10804,James Johnson,29.0,Female,158,46,18.4,114/80,128,Hypertension,Yes,Mumbai
+10805,Jennifer Fields,29.0,Female,161,47,18.1,130/73,174,Cancer,Yes,Trichy
+10806,Marcus Benjamin,77.0,Female,185,88,25.7,110/62,158,Healthy,Yes,Bengaluru
+10807,Mr. Joseph Wall DDS,,Female,157,91,36.9,106/67,155,Healthy,Yes,Chennai
+10808,Daniel Terrell,18.0,Female,167,82,29.4,136/86,216,Diabetes,Yes,Bengaluru
+10809,Jessica Mooney,71.0,Male,177,85,27.1,127/75,213,Healthy,No,Mumbai
+10810,Robert Washington,51.0,Female,159,72,28.5,119/98,93,Arthritis,Yes,Bengaluru
+10811,Lance Ross,81.0,Female,157,70,28.4,111/97,100,Flu,Yes,Madurai
+10812,Sara Harris,37.0,Male,186,45,13.0,160/78,189,Flu,Yes,Madurai
+10813,Raymond Clay,50.0,Female,165,73,26.8,128/84,99,Heart Disease,Yes,Bengaluru
+10814,Joshua Garner,76.0,Male,157,67,27.2,103/87,125,,No,Delhi
+10815,Victoria Wells,30.0,Male,189,53,14.8,126/86,133,Healthy,Yes,Madurai
+10816,Anthony Johnson,45.0,Female,178,66,20.8,105/88,226,Asthma,No,Salem
+10817,Steven Andrews,20.0,Male,170,100,34.6,116/86,229,Asthma,No,Chennai
+10818,Luis Weaver,59.0,Male,178,52,16.4,110/79,207,Asthma,No,Coimbatore
+10819,Corey Ramirez,53.0,Female,187,88,25.2,150/69,145,,No,Madurai
+10820,Kelly Adams,42.0,Female,188,55,15.6,108/73,155,Asthma,No,Coimbatore
+10821,Christopher Collins,78.0,Female,175,99,32.3,109/83,82,COVID-19,No,Trichy
+10822,Alexis Reeves,44.0,Female,183,66,19.7,117/68,102,Flu,No,Madurai
+10823,Adrian Bryant,61.0,Female,158,56,22.4,100/87,117,Hypertension,No,Salem
+10824,Crystal Castro,55.0,Female,163,51,19.2,120/98,133,Cancer,No,Bengaluru
+10825,Erica Kennedy,32.0,Male,153,89,38.0,101/70,214,Cancer,Yes,Mumbai
+10826,Katrina Reyes,80.0,Female,162,60,22.9,129/62,148,Cancer,Yes,Mumbai
+10827,John Cook,56.0,Male,172,95,32.1,147/72,224,Flu,No,Coimbatore
+10828,Kristin Potter,29.0,Male,167,84,30.1,149/62,91,COVID-19,No,Trichy
+10829,Donna Scott,52.0,Male,177,66,21.1,140/70,231,Healthy,No,Trichy
+10830,Kevin Williams,32.0,Male,186,100,28.9,101/75,164,,No,Trichy
+10831,Neil Nelson,71.0,Female,185,105,30.7,110/62,165,Hypertension,Yes,Bengaluru
+10832,Dana Rodgers,25.0,Male,159,46,18.2,108/79,145,Hypertension,Yes,Mumbai
+10833,David Freeman,55.0,Female,159,79,31.2,111/68,184,Asthma,No,Mumbai
+10834,Destiny Miles,,Female,161,53,20.4,108/95,152,Healthy,Yes,Mumbai
+10835,Frederick Moyer,29.0,Female,173,96,32.1,138/89,94,Healthy,Yes,Coimbatore
+10836,Lindsey Cobb,37.0,Female,189,51,14.3,120/86,74,Healthy,Yes,Salem
+10837,Debra Hernandez,71.0,Female,161,90,34.7,120/63,107,Cancer,Yes,Bengaluru
+10838,Tyler Hernandez,37.0,Female,172,66,22.3,129/62,156,Cancer,No,Salem
+10839,Jason Mcguire,25.0,Female,170,101,34.9,145/93,173,Flu,No,Delhi
+10840,Vanessa Sims,27.0,Female,167,53,19.0,140/65,119,COVID-19,Yes,Chennai
+10841,Jordan Petty,41.0,Female,183,63,18.8,158/95,207,Hypertension,Yes,Madurai
+10842,Ashley Brown,35.0,Female,156,88,36.2,141/99,70,Heart Disease,Yes,Madurai
+10843,Shawn Scott,48.0,Male,150,91,40.4,124/94,108,Asthma,No,Delhi
+10844,James Ashley,47.0,Female,167,45,16.1,119/95,194,Diabetes,No,Mumbai
+10845,Matthew Dennis,75.0,Male,158,88,35.3,136/98,239,Healthy,No,Chennai
+10846,Laura Doyle DDS,37.0,Male,181,80,24.4,121/90,171,Flu,Yes,Delhi
+10847,Andrea Martinez,33.0,Female,152,103,44.6,104/65,215,COVID-19,No,Madurai
+10848,Kim Norman MD,75.0,Male,166,86,31.2,128/94,213,Arthritis,No,Bengaluru
+10849,Pamela Cooper,45.0,Female,181,99,30.2,104/86,101,Healthy,No,Trichy
+10850,Bryan Vincent,44.0,Male,184,72,21.3,114/75,126,Flu,Yes,Mumbai
+10851,Maria Gomez,25.0,Male,167,63,22.6,133/86,146,Healthy,No,Coimbatore
+10852,Aimee Miller,39.0,Female,186,89,25.7,129/89,143,COVID-19,Yes,Salem
+10853,Katie Campbell,59.0,Male,179,105,32.8,140/92,77,Arthritis,Yes,Madurai
+10854,Linda Sanchez,32.0,Female,167,68,24.4,100/97,160,Flu,No,Salem
+10855,Christine Rich,60.0,Female,171,66,22.6,109/71,75,Hypertension,No,Bengaluru
+10856,Amber Gomez,82.0,Male,164,104,38.7,100/83,125,COVID-19,No,Bengaluru
+10857,Whitney Jones,21.0,Male,166,79,28.7,160/94,137,Healthy,No,Salem
+10858,Thomas Simon,66.0,Female,186,80,23.1,158/61,158,COVID-19,Yes,Coimbatore
+10859,Deborah Jones,65.0,Male,166,46,16.7,137/63,130,Healthy,No,Salem
+10860,Robert Moore,61.0,Male,188,103,29.1,134/76,159,,Yes,Salem
+10861,Mark Hutchinson,48.0,Male,179,73,22.8,159/94,140,Healthy,No,Delhi
+10862,Sheena Chase,43.0,Male,166,71,25.8,154/61,208,Healthy,Yes,Trichy
+10863,Zachary Clark,41.0,Female,178,66,20.8,126/97,145,COVID-19,Yes,Chennai
+10864,Elizabeth Ellison,34.0,Male,155,97,40.4,116/88,221,Asthma,Yes,Chennai
+10865,Allison Hart,64.0,Female,188,99,28.0,101/63,180,Cancer,Yes,Madurai
+10866,Ann Mccarthy,75.0,Male,187,51,14.6,159/64,233,Heart Disease,Yes,Madurai
+10867,Wayne Rocha,74.0,Male,164,51,19.0,120/87,150,Arthritis,Yes,Mumbai
+10868,Paul Freeman,38.0,Female,180,89,27.5,124/88,117,Healthy,Yes,Salem
+10869,Dylan Skinner,81.0,Male,178,80,25.2,104/75,164,Asthma,Yes,Mumbai
+10870,William Tran,,Male,180,75,23.1,139/87,197,Asthma,No,Coimbatore
+10871,John Miller,38.0,Female,185,51,14.9,123/74,222,Heart Disease,Yes,Delhi
+10872,Dorothy Jackson,81.0,Female,175,77,25.1,134/69,122,Heart Disease,No,Bengaluru
+10873,Carolyn Esparza,57.0,Male,154,49,20.7,130/71,188,Arthritis,Yes,Mumbai
+10874,Tammy Morales,22.0,Female,154,82,34.6,112/61,204,,Yes,Bengaluru
+10875,Holly Stewart,44.0,Female,176,65,21.0,141/99,119,Healthy,No,Madurai
+10876,Michelle Combs,49.0,Female,150,105,46.7,147/92,84,Diabetes,No,Chennai
+10877,Alyssa Oneill,31.0,Male,189,90,25.2,149/84,204,COVID-19,No,Bengaluru
+10878,Christopher Dudley,75.0,Male,151,103,45.2,137/62,110,Arthritis,No,Coimbatore
+10879,Jennifer Rodriguez,20.0,Female,184,74,21.9,121/82,74,Hypertension,Yes,Delhi
+10880,Richard Gomez,71.0,Male,150,78,34.7,150/90,93,Hypertension,No,Chennai
+10881,Brian Tucker,84.0,Male,174,50,16.5,125/74,100,Flu,Yes,Mumbai
+10882,Danielle Garcia,39.0,Male,186,82,23.7,105/71,129,Heart Disease,Yes,Bengaluru
+10883,Jennifer Owens,25.0,Female,171,70,23.9,127/68,198,Arthritis,Yes,Coimbatore
+10884,Brooke Gates,43.0,Female,183,45,13.4,126/73,185,Heart Disease,No,Chennai
+10885,Keith Johnson,67.0,Male,171,92,31.5,126/96,168,Hypertension,Yes,Salem
+10886,Eric Perez,33.0,Female,156,64,26.3,103/65,227,Diabetes,Yes,Chennai
+10887,Robert Mueller,85.0,Male,158,97,38.9,139/96,177,COVID-19,Yes,Coimbatore
+10888,Brandy Lynch,61.0,Female,172,54,18.3,159/71,184,Cancer,No,Chennai
+10889,Dr. Lorraine Warren MD,47.0,Female,169,58,20.3,119/96,240,Healthy,No,Chennai
+10890,Miranda Keith,34.0,Male,184,95,28.1,107/74,238,Asthma,Yes,Trichy
+10891,Andrew Gonzalez,18.0,Female,181,55,16.8,123/84,122,Arthritis,Yes,Coimbatore
+10892,Deborah Warren,59.0,Male,165,99,36.4,126/76,162,Flu,No,Trichy
+10893,Tommy Velazquez,57.0,Female,151,77,33.8,142/60,236,Heart Disease,Yes,Delhi
+10894,Blake Carson,44.0,Female,179,87,27.2,157/68,101,Healthy,No,Salem
+10895,Alexandra Price,41.0,Male,150,65,28.9,140/98,228,COVID-19,Yes,Chennai
+10896,Kristin Barnes,56.0,Male,162,98,37.3,156/67,113,Arthritis,No,Salem
+10897,Samantha Walker,66.0,Female,162,81,30.9,159/72,136,COVID-19,Yes,Mumbai
+10898,Lauren Lee,66.0,Female,164,61,22.7,106/87,205,Asthma,Yes,Trichy
+10899,Colton Mitchell,36.0,Male,167,54,19.4,131/94,113,Heart Disease,Yes,Trichy
+10900,Samantha Wilson,27.0,Female,159,70,27.7,122/80,237,,Yes,Salem
+10901,Kayla Mcconnell,,Male,187,104,29.7,101/66,217,Hypertension,Yes,Bengaluru
+10902,Aaron Jackson,71.0,Female,165,104,38.2,123/85,214,COVID-19,Yes,Chennai
+10903,Caleb Jacobs,44.0,Male,169,93,32.6,110/96,171,Arthritis,Yes,Mumbai
+10904,Zachary Freeman,27.0,Female,180,59,18.2,150/87,175,Cancer,No,Mumbai
+10905,Michele West,81.0,Male,166,90,32.7,128/91,161,Healthy,Yes,Delhi
+10906,Brooke Torres,57.0,Female,160,79,30.9,106/91,193,Hypertension,Yes,Trichy
+10907,Victor Green,62.0,Female,178,73,23.0,132/77,205,Flu,No,Trichy
+10908,Brandon Williams,29.0,Female,179,46,14.4,118/69,160,Flu,No,Mumbai
+10909,Karen Campos,18.0,Male,181,83,25.3,108/73,164,Heart Disease,No,Bengaluru
+10910,Cindy Nielsen,74.0,Male,174,53,17.5,141/97,222,Heart Disease,No,Chennai
+10911,Megan Cohen,26.0,Female,159,79,31.2,123/86,234,Arthritis,No,Mumbai
+10912,Kristen Davis,43.0,Female,182,68,20.5,133/74,126,Arthritis,No,Trichy
+10913,Todd Johnson,32.0,Male,181,92,28.1,130/64,176,Healthy,No,Salem
+10914,Daniel Taylor,30.0,Female,157,94,38.1,131/74,190,Hypertension,No,Bengaluru
+10915,Edward Garrett,37.0,Female,166,99,35.9,108/63,111,Heart Disease,No,Trichy
+10916,Eric Phillips,52.0,Female,164,75,27.9,100/66,171,Cancer,Yes,Coimbatore
+10917,Maria Anderson,24.0,Female,156,63,25.9,155/100,112,Heart Disease,Yes,Delhi
+10918,Kimberly Brewer,19.0,Male,158,75,30.0,113/94,158,Cancer,No,Chennai
+10919,Matthew Welch,26.0,Male,170,74,25.6,124/76,185,Asthma,No,Salem
+10920,Anna Rodgers,82.0,Male,158,60,24.0,156/88,112,Hypertension,No,Delhi
+10921,Natasha Barnett,66.0,Male,170,78,27.0,111/69,141,COVID-19,Yes,Delhi
+10922,Andrew Anderson,28.0,Female,156,49,20.1,159/70,127,Hypertension,Yes,Madurai
+10923,Michele Campbell,29.0,Male,153,65,27.8,149/84,203,Flu,Yes,Chennai
+10924,Nicolas Mcdonald,83.0,Male,183,53,15.8,130/97,184,Flu,Yes,Bengaluru
+10925,Thomas Newton,69.0,Male,155,52,21.6,121/63,130,Cancer,Yes,Bengaluru
+10926,Robert Nguyen,78.0,Male,172,52,17.6,138/91,100,Heart Disease,Yes,Trichy
+10927,Daniel Gray,35.0,Male,150,84,37.3,100/64,114,Cancer,No,Madurai
+10928,Austin Campbell,61.0,Male,157,51,20.7,135/98,71,Asthma,Yes,Mumbai
+10929,Maurice Horn,22.0,Male,182,78,23.5,106/74,115,Diabetes,Yes,Salem
+10930,Austin Garcia,66.0,Female,168,61,21.6,122/90,78,Heart Disease,Yes,Delhi
+10931,Bradley Baker,73.0,Female,153,68,29.0,136/84,224,COVID-19,Yes,Chennai
+10932,Julia Patterson,59.0,Female,187,98,28.0,100/69,75,Healthy,No,Bengaluru
+10933,Joseph Howard,81.0,Female,184,83,24.5,158/100,93,Cancer,Yes,Coimbatore
+10934,Nancy Davis MD,21.0,Male,158,77,30.8,124/91,131,Flu,No,Coimbatore
+10935,Michael Summers,56.0,Female,158,98,39.3,115/79,88,Diabetes,Yes,Coimbatore
+10936,Jonathan Davis,74.0,Female,171,84,28.7,143/79,111,COVID-19,No,Madurai
+10937,Carlos Salinas,76.0,Male,155,88,36.6,107/73,202,Cancer,Yes,Coimbatore
+10938,Jennifer Haas,80.0,Female,190,86,23.8,135/86,190,Diabetes,No,Coimbatore
+10939,Michelle Thomas,24.0,Female,152,74,32.0,125/60,152,Flu,Yes,Salem
+10940,Mrs. Kathleen Smith,83.0,Female,189,46,12.9,122/75,111,Hypertension,No,Chennai
+10941,Mark Clark,66.0,Male,173,89,29.7,141/99,198,Diabetes,Yes,Mumbai
+10942,Sarah Smith,20.0,Male,178,78,24.6,102/82,101,Hypertension,Yes,Madurai
+10943,Gregory Chambers,77.0,Female,155,62,25.8,121/69,116,Flu,Yes,Salem
+10944,Jeremy Diaz,74.0,Male,154,104,43.9,138/96,153,Asthma,No,Trichy
+10945,Barry Young,23.0,Male,179,90,28.1,157/69,96,Hypertension,No,Bengaluru
+10946,Tricia Bates,59.0,Male,181,50,15.3,150/94,106,Arthritis,No,Coimbatore
+10947,Matthew Kaufman,46.0,Female,169,90,31.5,136/77,177,Cancer,Yes,Trichy
+10948,Brian Stephens,79.0,Female,160,63,24.6,142/84,87,Cancer,No,Chennai
+10949,Kelly Ewing,57.0,Male,167,101,36.2,105/66,194,Asthma,No,Chennai
+10950,Billy Kaiser,79.0,Male,189,72,20.2,133/97,116,Hypertension,No,Trichy
+10951,Sara Hill,32.0,Female,169,63,22.1,131/68,168,Healthy,Yes,Bengaluru
+10952,Kyle Wiggins,50.0,Male,174,47,15.5,141/83,110,Arthritis,Yes,Coimbatore
+10953,Diane Shaw,32.0,Male,178,96,30.3,138/77,145,Healthy,Yes,Coimbatore
+10954,Jason Garcia,65.0,Female,150,71,31.6,135/64,216,Cancer,No,Mumbai
+10955,Rebecca Sawyer,75.0,Male,184,77,22.7,103/82,88,Asthma,Yes,Delhi
+10956,Heather Weaver,46.0,Male,166,98,35.6,121/61,229,Flu,No,Madurai
+10957,Curtis Keller,63.0,Female,156,51,21.0,104/94,198,Hypertension,No,Madurai
+10958,Rebecca Waller,24.0,Male,173,62,20.7,104/73,169,COVID-19,No,Bengaluru
+10959,Sarah Newman,64.0,Female,183,95,28.4,113/60,212,Hypertension,No,Salem
+10960,Zachary Boyle,64.0,Female,162,102,38.9,100/72,217,Heart Disease,Yes,Bengaluru
+10961,Diane Larson,84.0,Male,185,77,22.5,108/83,104,Flu,Yes,Delhi
+10962,Kurt Duke,40.0,Female,190,95,26.3,104/80,193,Heart Disease,No,Delhi
+10963,Antonio Moore,24.0,Male,184,48,14.2,129/80,89,Asthma,No,Mumbai
+10964,Cassandra Hernandez,26.0,Male,173,99,33.1,140/88,210,Arthritis,No,Delhi
+10965,Brandon Henry,36.0,Male,159,58,22.9,151/85,180,Diabetes,Yes,Mumbai
+10966,Stephen Hill,23.0,Male,158,99,39.7,154/76,198,COVID-19,Yes,Delhi
+10967,Robert Adams,71.0,Female,177,90,28.7,125/93,141,Diabetes,Yes,Trichy
+10968,Tim Mays,62.0,Male,185,104,30.4,146/82,80,Flu,No,Trichy
+10969,Joanne Martin,73.0,Male,169,103,36.1,120/94,206,Hypertension,No,Delhi
+10970,Matthew Gonzalez,60.0,Female,176,85,27.4,114/89,219,Healthy,No,Mumbai
+10971,Cody Bailey,55.0,Male,176,50,16.1,130/69,159,,Yes,Bengaluru
+10972,Ashley Rocha,47.0,Male,164,103,38.3,153/71,188,Asthma,No,Salem
+10973,Robert Glass,81.0,Female,154,88,37.1,155/98,238,Healthy,No,Salem
+10974,Deborah Sanders,65.0,Male,173,75,25.1,140/64,92,COVID-19,Yes,Bengaluru
+10975,Diane Walker,83.0,Female,169,68,23.8,101/73,102,Hypertension,Yes,Bengaluru
+10976,Misty Guerrero,39.0,Female,179,105,32.8,101/68,119,Flu,No,Coimbatore
+10977,Brandon Robles,73.0,Male,189,65,18.2,127/97,107,Healthy,No,Coimbatore
+10978,Mark Hansen,53.0,Female,162,52,19.8,136/97,145,Cancer,Yes,Salem
+10979,Gregory Newman,37.0,Female,163,98,36.9,103/65,109,Arthritis,Yes,Mumbai
+10980,Stephanie Jones,57.0,Male,161,77,29.7,151/63,129,Heart Disease,Yes,Chennai
+10981,Alex Wilkinson,81.0,Female,182,50,15.1,107/92,191,Flu,No,Chennai
+10982,Kathryn Moore,82.0,Male,176,89,28.7,124/97,158,Diabetes,No,Trichy
+10983,Donna Martinez,24.0,Male,174,104,34.4,134/62,104,Asthma,Yes,Mumbai
+10984,Amy Dunn,39.0,Male,151,98,43.0,141/99,98,Healthy,No,Trichy
+10985,Megan Chapman,80.0,Male,150,71,31.6,113/90,91,Heart Disease,Yes,Mumbai
+10986,Ronald Barber,77.0,Male,154,82,34.6,102/89,114,COVID-19,No,Salem
+10987,Lauren Schultz,55.0,Female,177,105,33.5,143/62,171,Flu,Yes,Coimbatore
+10988,Jennifer Ayala,25.0,Male,181,103,31.4,160/69,156,Healthy,Yes,Delhi
+10989,Matthew Jordan,76.0,Female,189,96,26.9,118/87,237,Healthy,Yes,Chennai
+10990,Samuel Robinson,77.0,Male,150,60,26.7,133/68,92,Diabetes,Yes,Salem
+10991,Sandra Miller,70.0,Male,158,68,27.2,135/83,199,Hypertension,No,Delhi
+10992,Jason Brewer,41.0,Male,161,71,27.4,149/88,230,Hypertension,No,Bengaluru
+10993,Morgan Bell,29.0,Male,173,51,17.0,123/89,121,Arthritis,Yes,Delhi
+10994,Autumn Rose,60.0,Male,161,58,22.4,128/86,147,Arthritis,No,Chennai
+10995,Erica Watts,46.0,Female,176,70,22.6,127/90,162,Arthritis,Yes,Madurai
+10996,Brooke Campbell,54.0,Male,172,63,21.3,113/64,93,Heart Disease,No,Trichy
+10997,Kelly Mendez,36.0,Male,155,78,32.5,142/77,200,Flu,Yes,Coimbatore
+10998,Michael Ramos,74.0,Male,162,102,38.9,153/98,98,Hypertension,Yes,Salem
+10999,Brian Burton,57.0,Male,185,73,21.3,158/98,205,Asthma,No,Trichy
+11000,Ronald Hays,37.0,Male,155,90,37.5,133/86,79,Cancer,No,Chennai
+11001,Jenna Blevins,26.0,Female,183,62,18.5,116/90,89,Healthy,Yes,Trichy
+11002,Ms. Sarah Wood DVM,38.0,Male,180,98,30.2,120/100,163,Healthy,Yes,Trichy
+11003,Crystal Mullins,22.0,Male,162,49,18.7,110/72,137,Diabetes,Yes,Madurai
+11004,Danielle Gibbs,28.0,Female,172,65,22.0,108/82,183,,No,Salem
+11005,Marcus Swanson,26.0,Male,160,76,29.7,136/93,110,Asthma,Yes,Bengaluru
+11006,George Johnson,43.0,Female,157,59,23.9,139/61,153,Hypertension,No,Bengaluru
+11007,Kathleen Kemp,54.0,Female,155,68,28.3,140/75,173,Cancer,Yes,Madurai
+11008,Debra Turner,20.0,Male,169,97,34.0,140/94,138,Hypertension,No,Chennai
+11009,James Garcia,79.0,Male,180,77,23.8,132/69,136,Cancer,No,Madurai
+11010,Doris Woods,77.0,Female,160,59,23.0,147/60,138,Cancer,Yes,Salem
+11011,Nicole Anderson,78.0,Female,183,76,22.7,132/95,229,Arthritis,Yes,Trichy
+11012,Jennifer Leblanc,34.0,Female,181,101,30.8,116/67,172,Diabetes,Yes,Coimbatore
+11013,Christine Miller,42.0,Female,165,47,17.3,125/80,216,Asthma,No,Delhi
+11014,Mario Simmons,45.0,Female,183,77,23.0,131/70,156,Cancer,Yes,Trichy
+11015,Matthew Hill,74.0,Female,183,45,13.4,127/73,159,Arthritis,Yes,Salem
+11016,Marcus Richardson,76.0,Male,168,61,21.6,102/79,222,COVID-19,Yes,Coimbatore
+11017,Brandy Dunn,73.0,Female,182,104,31.4,133/88,240,Healthy,No,Chennai
+11018,Dr. Kimberly Wright DDS,18.0,Female,157,50,20.3,126/66,89,Heart Disease,Yes,Bengaluru
+11019,Ashley Ward,27.0,Male,183,102,30.5,150/65,218,Heart Disease,No,Madurai
+11020,Teresa Cohen,59.0,Female,158,100,40.1,136/71,104,Hypertension,Yes,Delhi
+11021,Bethany Long,23.0,Male,155,45,18.7,128/68,138,Asthma,No,Bengaluru
+11022,Robert Castaneda,24.0,Female,184,81,23.9,132/98,136,Cancer,No,Mumbai
+11023,Melissa Rogers,33.0,Male,170,86,29.8,143/97,199,Hypertension,No,Bengaluru
+11024,Blake Green,,Male,172,88,29.7,130/77,216,COVID-19,No,Delhi
+11025,Benjamin Atkins,74.0,Female,158,79,31.6,118/77,117,Hypertension,Yes,Madurai
+11026,Brandon Herrera,64.0,Male,158,90,36.1,157/94,151,Cancer,No,Delhi
+11027,Stephanie Martinez,49.0,Male,154,99,41.7,132/60,223,Cancer,No,Trichy
+11028,Kristina Combs,60.0,Male,157,77,31.2,108/67,96,Diabetes,No,Madurai
+11029,Eric Sanchez,32.0,Female,189,64,17.9,105/90,81,Hypertension,No,Madurai
+11030,Teresa Vaughan MD,23.0,Male,158,103,41.3,127/69,240,Cancer,No,Madurai
+11031,Victor Mcdonald,45.0,Female,175,75,24.5,155/100,237,Asthma,Yes,Bengaluru
+11032,Angela Beard,83.0,Male,189,94,26.3,137/98,196,Healthy,No,Coimbatore
+11033,Frank Miller,45.0,Female,163,78,29.4,100/85,203,Asthma,Yes,Chennai
+11034,Laura Coleman,83.0,Female,179,102,31.8,156/60,202,Diabetes,Yes,Mumbai
+11035,Riley Reynolds,51.0,Female,157,92,37.3,120/78,160,Heart Disease,No,Coimbatore
+11036,Christopher Hernandez,57.0,Female,179,60,18.7,134/92,151,Asthma,No,Mumbai
+11037,Carlos Richardson,32.0,Female,183,101,30.2,144/69,191,COVID-19,No,Bengaluru
+11038,Matthew Lane,71.0,Female,173,74,24.7,158/92,162,Asthma,No,Trichy
+11039,Eric Richards,43.0,Female,150,48,21.3,121/71,240,Arthritis,No,Trichy
+11040,Steven Murray,49.0,Female,176,59,19.0,143/60,153,Cancer,Yes,Madurai
+11041,Jerry Stewart,51.0,Male,168,102,36.1,144/85,107,Diabetes,Yes,Madurai
+11042,Benjamin Blake,54.0,Female,153,50,21.4,140/69,228,Hypertension,Yes,Trichy
+11043,Sara Clark,48.0,Male,161,60,23.1,102/95,90,Heart Disease,Yes,Trichy
+11044,Jennifer Morris,29.0,Female,152,103,44.6,109/64,110,Asthma,Yes,Mumbai
+11045,Daniel Bryan,56.0,Male,189,96,26.9,154/60,209,Cancer,No,Chennai
+11046,Matthew Robertson,34.0,Male,152,51,22.1,124/77,124,Hypertension,Yes,Trichy
+11047,Mrs. Sarah Stewart,77.0,Female,152,82,35.5,110/94,76,Heart Disease,No,Chennai
+11048,Dawn Crosby,64.0,Female,180,85,26.2,100/70,214,Flu,Yes,Mumbai
+11049,Michael Thomas,80.0,Male,183,74,22.1,112/95,197,COVID-19,Yes,Bengaluru
+11050,Justin Poole,46.0,Female,175,46,15.0,151/73,186,Heart Disease,Yes,Salem
+11051,Dr. Michael Johnson MD,30.0,Female,183,58,17.3,128/70,225,Arthritis,Yes,Bengaluru
+11052,Jennifer Alvarado PhD,41.0,Female,157,46,18.7,154/79,239,Asthma,Yes,Trichy
+11053,Matthew Garcia,34.0,Male,187,81,23.2,159/65,137,Cancer,No,Coimbatore
+11054,Amber Roberts,29.0,Female,190,70,19.4,149/63,73,Flu,Yes,Coimbatore
+11055,James Oneal,28.0,Male,176,91,29.4,157/92,221,Hypertension,No,Madurai
+11056,Julie Wilson,46.0,Female,159,56,22.2,109/82,212,Asthma,No,Mumbai
+11057,Kimberly Mccoy,71.0,Male,150,50,22.2,101/67,103,Asthma,Yes,Coimbatore
+11058,Tara Martin,,Male,186,78,22.5,101/93,98,Heart Disease,Yes,Mumbai
+11059,Natalie Armstrong,79.0,Female,152,50,21.6,151/63,224,Asthma,Yes,Salem
+11060,Jessica Powell,21.0,Female,187,80,22.9,107/75,208,Healthy,No,Coimbatore
+11061,Nancy King,77.0,Female,151,83,36.4,145/87,146,Healthy,No,Chennai
+11062,Jesus Nelson,29.0,Female,186,70,20.2,108/66,172,Healthy,No,Mumbai
+11063,Jeffery Hill,25.0,Male,150,69,30.7,115/99,129,Diabetes,Yes,Trichy
+11064,Travis Garrett,33.0,Male,169,67,23.5,156/65,95,Flu,Yes,Delhi
+11065,Valerie Miles,42.0,Female,151,47,20.6,149/80,108,Diabetes,Yes,Chennai
+11066,Jay Lloyd,85.0,Female,183,70,20.9,111/96,159,Heart Disease,No,Trichy
+11067,Curtis Olsen,74.0,Female,171,93,31.8,160/89,229,Hypertension,Yes,Salem
+11068,Sharon Miller,40.0,Female,186,62,17.9,123/95,193,Arthritis,No,Madurai
+11069,Mary Wood,57.0,Male,150,81,36.0,153/62,172,Flu,No,Mumbai
+11070,Eric Cherry,85.0,Female,184,54,15.9,126/93,107,Healthy,No,Madurai
+11071,Richard Martinez,70.0,Female,181,66,20.1,144/62,210,Heart Disease,Yes,Delhi
+11072,John Snyder,41.0,Female,153,50,21.4,145/68,181,Flu,Yes,Coimbatore
+11073,Kevin Johnson,45.0,Male,164,82,30.5,140/80,73,,Yes,Delhi
+11074,Christian Smith,19.0,Female,176,66,21.3,126/93,195,Flu,Yes,Bengaluru
+11075,Elizabeth Case,47.0,Female,161,96,37.0,131/83,197,Hypertension,No,Madurai
+11076,Jose Brown,80.0,Male,150,88,39.1,129/100,223,COVID-19,No,Salem
+11077,Derek Burnett,63.0,Male,156,89,36.6,139/62,181,Heart Disease,No,Delhi
+11078,Mary Abbott,35.0,Female,173,56,18.7,149/80,156,Flu,Yes,Madurai
+11079,Sonia Andrews,59.0,Male,155,64,26.6,112/96,133,Diabetes,No,Mumbai
+11080,Paul Noble,33.0,Female,163,56,21.1,115/86,217,Asthma,Yes,Coimbatore
+11081,Laura Greene,78.0,Male,158,49,19.6,109/88,122,Cancer,Yes,Coimbatore
+11082,Guy Pollard,84.0,Male,190,74,20.5,133/63,150,Diabetes,Yes,Delhi
+11083,Matthew Travis,40.0,Female,156,53,21.8,101/63,134,Heart Disease,No,Bengaluru
+11084,Amy Ball,53.0,Female,172,51,17.2,104/94,85,Healthy,Yes,Chennai
+11085,Patrick Evans,46.0,Male,188,67,19.0,105/96,144,Arthritis,No,Salem
+11086,Jessica Miranda,32.0,Female,150,80,35.6,128/76,157,Flu,No,Coimbatore
+11087,Kristin Flores,73.0,Male,178,90,28.4,122/81,85,COVID-19,No,Madurai
+11088,Carla Rodriguez,40.0,Female,162,45,17.1,149/69,154,Arthritis,Yes,Bengaluru
+11089,Albert Mckinney,34.0,Female,158,76,30.4,117/84,238,Healthy,Yes,Coimbatore
+11090,Sarah Bush,29.0,Female,156,48,19.7,156/88,74,Asthma,Yes,Chennai
+11091,Ashley Moore,52.0,Male,165,80,29.4,114/93,191,Diabetes,No,Chennai
+11092,Pamela Gonzalez,26.0,Female,181,83,25.3,141/95,200,Flu,Yes,Trichy
+11093,Andrea Horn,37.0,Male,177,52,16.6,120/77,176,COVID-19,Yes,Madurai
+11094,Alan Villa,59.0,Male,190,48,13.3,145/81,216,Flu,No,Coimbatore
+11095,Michelle Carpenter,38.0,Female,150,68,30.2,124/77,143,COVID-19,No,Delhi
+11096,James Carter,47.0,Male,159,66,26.1,146/69,175,Diabetes,No,Mumbai
+11097,Christopher Mercado,29.0,Female,190,81,22.4,113/97,187,Flu,Yes,Salem
+11098,Linda Reed,61.0,Male,165,89,32.7,111/74,194,Asthma,No,Bengaluru
+11099,Cody Taylor,36.0,Female,170,78,27.0,139/65,176,Arthritis,No,Mumbai
+11100,Scott Fisher,20.0,Male,172,86,29.1,131/99,71,Arthritis,Yes,Delhi
