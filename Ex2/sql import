@@ -1,0 +1,22 @@
+import sqlite3
+import pandas as pd
+conn = sqlite3.connect(":memory:")
+cursor = conn.cursor()
+with open("medical_dataset_1100_rows_v2.sql", "r") as file:
+    sql_script = file.read()
+cursor.executescript(sql_script)
+tables = pd.read_sql_query(
+    "SELECT name FROM sqlite_master WHERE type='table';",
+    conn
+)
+print("Tables in Database:")
+print(tables)
+# Get first table name
+table_name = tables.iloc[0, 0]
+# Read data
+df = pd.read_sql_query(f"SELECT * FROM {table_name}", conn)
+print("\n===== HEAD =====")
+print(df.head())
+print("\n===== INFO =====")
+df.info()
+conn.close()
