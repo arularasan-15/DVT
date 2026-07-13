@@ -1,0 +1,8 @@
+# Import libraries
+import pandas as pd
+df = pd.read_csv("medical_dataset_1100_rows_v2.csv")
+print(df)
+print(df.head())
+print(df.info())
+print(df.describe())
+
