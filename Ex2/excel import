@@ -1,0 +1,7 @@
+# Import libraries
+import pandas as pd
+df = pd.read_excel("medical_dataset_1100_rows_v2.xlsx")
+print(df)
+print(df.head())
+print(df.info())
+print(df.describe())
