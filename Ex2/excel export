@@ -1,0 +1,3 @@
+df.to_excel("medical_dataset_export.xlsx", index=False)
+
+print("Excel file exported successfully!")
